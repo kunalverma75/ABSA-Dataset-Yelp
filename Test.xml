@@ -1,0 +1,2627 @@
+<?xml version="1.0" ?>
+<sentences>
+   <sentence review_id="Zx6GEphVUaMAsy8MFNkxjA" sent_id="Zx6GEphVUaMAsy8MFNkxjA_27" sentiment="Neutral">
+      <text>The salad was fine, but drenched in dressing and not as good as I remember it.</text>
+      <aspectTerms>
+         <aspectTerm term="salad" polarity="Conflict" from="4" to="9"/>
+         <aspectTerm term="dressing" polarity="Neutral" from="36" to="44"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="xJISsfmcejcKQAv4PkCeBw" sent_id="xJISsfmcejcKQAv4PkCeBw_3" sentiment="Neutral">
+      <text>Ambience is lacking as it feels more like a cafeteria but it's clean.</text>
+      <aspectTerms>
+         <aspectTerm term="Ambience" polarity="Conflict" from="0" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Z3x0tfwm4nCeh6V_am9oAw" sent_id="Z3x0tfwm4nCeh6V_am9oAw_3" sentiment="Neutral">
+      <text>Even though is pricey but the dessert is worth it.</text>
+      <aspectTerms>
+         <aspectTerm term="dessert" polarity="Conflict" from="30" to="37"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="_B8A-w_VBrIes5hWqZCaNQ" sent_id="_B8A-w_VBrIes5hWqZCaNQ_4" sentiment="Neutral">
+      <text>The lemon chicken was good, but not the best I've had.</text>
+      <aspectTerms>
+         <aspectTerm term="lemon chicken" polarity="Conflict" from="4" to="17"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="_B8A-w_VBrIes5hWqZCaNQ" sent_id="_B8A-w_VBrIes5hWqZCaNQ_6" sentiment="Neutral">
+      <text>Shrimp fried rice was good, but too many onions.</text>
+      <aspectTerms>
+         <aspectTerm term="Shrimp fried rice" polarity="Conflict" from="0" to="17"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="_B8A-w_VBrIes5hWqZCaNQ" sent_id="_B8A-w_VBrIes5hWqZCaNQ_9" sentiment="Neutral">
+      <text>Really good fortune cookies, but why has the quality of fortunes gone down so much?</text>
+      <aspectTerms>
+         <aspectTerm term="fortune cookies" polarity="Conflict" from="12" to="27"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="bG9K7i56_i1HrnqxNu1qnw" sent_id="bG9K7i56_i1HrnqxNu1qnw_13" sentiment="Positive">
+      <text>Manager wasn't helpful, but gave us two days of free breakfast we were staying four nights!</text>
+      <aspectTerms>
+         <aspectTerm term="Manager" polarity="Conflict" from="0" to="7"/>
+         <aspectTerm term="breakfast" polarity="Positive" from="53" to="62"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="oz5eT4O-kGjr_bbpW6DN2g" sent_id="oz5eT4O-kGjr_bbpW6DN2g_21" sentiment="Positive">
+      <text>Their food is decent and the service is good, but nothing stellar.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Positive" from="6" to="10"/>
+         <aspectTerm term="service" polarity="Conflict" from="29" to="36"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="wux-Ghtfkjt1YwUpmId21w" sent_id="wux-Ghtfkjt1YwUpmId21w_2" sentiment="Neutral">
+      <text>Yes, the drinks are delightfully strong but not well or artfully crafted and expensive.</text>
+      <aspectTerms>
+         <aspectTerm term="drinks" polarity="Conflict" from="9" to="15"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Iqi2bst3GBOIjSXoxB7e3w" sent_id="Iqi2bst3GBOIjSXoxB7e3w_4" sentiment="Neutral">
+      <text>And I basically devoured my burger - a little expensive but worth every penny.</text>
+      <aspectTerms>
+         <aspectTerm term="burger" polarity="Conflict" from="28" to="34"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="07K14rY7786d9iZ9l-roPg" sent_id="07K14rY7786d9iZ9l-roPg_19" sentiment="Neutral">
+      <text>The veggies are fresh but pass on this.</text>
+      <aspectTerms>
+         <aspectTerm term="veggies" polarity="Conflict" from="4" to="11"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="bTy-pNIW1neMx-bYv8Y_1g" sent_id="bTy-pNIW1neMx-bYv8Y_1g_1" sentiment="Neutral">
+      <text>I had the Hakata Ramen and found the broth to be tasty and noodles very disappointing.</text>
+      <aspectTerms>
+         <aspectTerm term="Hakata Ramen" polarity="Conflict" from="10" to="22"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="nRTrjlCEajT3MVsxg4gLpg" sent_id="nRTrjlCEajT3MVsxg4gLpg_11" sentiment="Neutral">
+      <text>Gyouza was fried nice, but I didn't really enjoy the filling.</text>
+      <aspectTerms>
+         <aspectTerm term="Gyouza" polarity="Conflict" from="0" to="6"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="jjw5lE-nUh4VLbb_n6ouVA" sent_id="jjw5lE-nUh4VLbb_n6ouVA_4" sentiment="Neutral">
+      <text>Although the food offered is less, the flavor makes it worth it.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Conflict" from="13" to="17"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="F5Bw6bCImV_-gKHo2mE3FA" sent_id="F5Bw6bCImV_-gKHo2mE3FA_7" sentiment="Neutral">
+      <text>The service can get pricey, but it has always been on point.</text>
+      <aspectTerms>
+         <aspectTerm term="service" polarity="Conflict" from="4" to="11"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="ZxUqUs3cqC0LtN23psjM7w" sent_id="ZxUqUs3cqC0LtN23psjM7w_3" sentiment="Neutral">
+      <text>I had the guacamole bacon burger which was decent enough, though I found the bread to be a tiny bit dry.</text>
+      <aspectTerms>
+         <aspectTerm term="guacamole bacon burger" polarity="Conflict" from="10" to="32"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="NBR7J_nJ3F6jhSGR-ZprJg" sent_id="NBR7J_nJ3F6jhSGR-ZprJg_5" sentiment="Neutral">
+      <text>The empanada was good too - nothing to write home about but good value.</text>
+      <aspectTerms>
+         <aspectTerm term="empanada" polarity="Conflict" from="4" to="12"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Hy6Npge_G1sXqwWfmwNiyg" sent_id="Hy6Npge_G1sXqwWfmwNiyg_10" sentiment="Negative">
+      <text>Though I enjoyed talking to my technician, I thought that she could've done a much better job with my pedi.</text>
+      <aspectTerms>
+         <aspectTerm term="technician" polarity="Conflict" from="31" to="41"/>
+         <aspectTerm term="pedi" polarity="Negative" from="102" to="106"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="iezQhPYwU4pm9pUUkFTmbQ" sent_id="iezQhPYwU4pm9pUUkFTmbQ_7" sentiment="Neutral">
+      <text>For an entree, I opted for the roasted pork, which was sizeable in portion, but under-seasoned.</text>
+      <aspectTerms>
+         <aspectTerm term="entree" polarity="Conflict" from="7" to="13"/>
+         <aspectTerm term="roasted pork" polarity="Conflict" from="31" to="43"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="oQkSGfop05fcsYcZndIlSg" sent_id="oQkSGfop05fcsYcZndIlSg_3" sentiment="Neutral">
+      <text>Fun atmosphere, but a little too expensive for what it is.</text>
+      <aspectTerms>
+         <aspectTerm term="atmosphere" polarity="Conflict" from="4" to="14"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="u1gUNbd7QLa_g-Zw-faLCw" sent_id="u1gUNbd7QLa_g-Zw-faLCw_6" sentiment="Neutral">
+      <text>Since it's almost always crowded (and I go during the week, on off hours), the management struggles to keep the shelves stocked.</text>
+      <aspectTerms>
+         <aspectTerm term="management" polarity="Conflict" from="79" to="89"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="ZU3r87qM7K8Zj3a9D5P7Tg" sent_id="ZU3r87qM7K8Zj3a9D5P7Tg_7" sentiment="Neutral">
+      <text>The steak was tiny but good.</text>
+      <aspectTerms>
+         <aspectTerm term="steak" polarity="Conflict" from="4" to="9"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="h4a-QJ7fK5fNu3g3pNamAQ" sent_id="h4a-QJ7fK5fNu3g3pNamAQ_2" sentiment="Neutral">
+      <text>It wasn't the best hairwash but it wasn't bad.</text>
+      <aspectTerms>
+         <aspectTerm term="hairwash" polarity="Conflict" from="19" to="27"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="R2N6nA9kZSx_9n0HKBH7yQ" sent_id="R2N6nA9kZSx_9n0HKBH7yQ_7" sentiment="Neutral">
+      <text>Internet: Slow, but workable.</text>
+      <aspectTerms>
+         <aspectTerm term="Internet" polarity="Conflict" from="0" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="LM8HaYjf4kJR7VRpNH9uYg" sent_id="LM8HaYjf4kJR7VRpNH9uYg_16" sentiment="Neutral">
+      <text>Rolls not terrible, but not superb.</text>
+      <aspectTerms>
+         <aspectTerm term="Rolls" polarity="Conflict" from="0" to="5"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="eK28sbquLl5_GyAXSUn3Qg" sent_id="eK28sbquLl5_GyAXSUn3Qg_5" sentiment="Neutral">
+      <text>They were good - not mind blowing amazing, but good solid enchiladas.</text>
+      <aspectTerms>
+         <aspectTerm term="enchiladas" polarity="Conflict" from="58" to="68"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="eK28sbquLl5_GyAXSUn3Qg" sent_id="eK28sbquLl5_GyAXSUn3Qg_9" sentiment="Neutral">
+      <text>The service could have been better honestly, but no major issues.</text>
+      <aspectTerms>
+         <aspectTerm term="service" polarity="Conflict" from="4" to="11"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="lEK4qOghgynWrEYjrwFPTg" sent_id="lEK4qOghgynWrEYjrwFPTg_1" sentiment="Neutral">
+      <text>Service was good, but slow.</text>
+      <aspectTerms>
+         <aspectTerm term="Service" polarity="Conflict" from="0" to="7"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="ndgGfRYQtB89w5JGEWBSVg" sent_id="ndgGfRYQtB89w5JGEWBSVg_6" sentiment="Neutral">
+      <text>To be fair, their coffee is above average but not as good as expected.</text>
+      <aspectTerms>
+         <aspectTerm term="coffee" polarity="Conflict" from="18" to="24"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="vI2bA5lwKN3-gk5JLW8rog" sent_id="vI2bA5lwKN3-gk5JLW8rog_17" sentiment="Neutral">
+      <text>Noodles and veggies were quite chewy but I didn't mind.</text>
+      <aspectTerms>
+         <aspectTerm term="Noodles" polarity="Conflict" from="0" to="7"/>
+         <aspectTerm term="veggies" polarity="Conflict" from="12" to="19"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="7UQlS9x4rEoOpsslqNapvw" sent_id="7UQlS9x4rEoOpsslqNapvw_1" sentiment="Neutral">
+      <text>Food is pretty good, but a bit overpriced and not that special.</text>
+      <aspectTerms>
+         <aspectTerm term="Food" polarity="Conflict" from="0" to="4"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="YeeUJWu6PNBskLK7myB8jA" sent_id="YeeUJWu6PNBskLK7myB8jA_5" sentiment="Neutral">
+      <text>Parking is difficult to find but it's expected for most establishments on Broadway.</text>
+      <aspectTerms>
+         <aspectTerm term="Parking" polarity="Conflict" from="0" to="7"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="5QCWr8J1bMU2sczB19-WJA" sent_id="5QCWr8J1bMU2sczB19-WJA_19" sentiment="Neutral">
+      <text>Service was slow but good.</text>
+      <aspectTerms>
+         <aspectTerm term="Service" polarity="Conflict" from="0" to="7"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="VSiNgkPVV2qtd6sSEjeb-A" sent_id="VSiNgkPVV2qtd6sSEjeb-A_8" sentiment="Neutral">
+      <text>I also had the salad which was good but nothing great.</text>
+      <aspectTerms>
+         <aspectTerm term="salad" polarity="Conflict" from="15" to="20"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="t1Ec4bzXRaiKvn_4ltMyaA" sent_id="t1Ec4bzXRaiKvn_4ltMyaA_1" sentiment="Neutral">
+      <text>The food was uneven - some were good, some not.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Conflict" from="4" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="vEhWspea5f0z0y5ya2e0rA" sent_id="vEhWspea5f0z0y5ya2e0rA_8" sentiment="Neutral">
+      <text>My friend had the oysters and thought they were overpriced, but they tasted well.</text>
+      <aspectTerms>
+         <aspectTerm term="oysters" polarity="Conflict" from="18" to="25"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="lBaV-fNYuuQ1PqPxcfQLRg" sent_id="lBaV-fNYuuQ1PqPxcfQLRg_5" sentiment="Neutral">
+      <text>The procedure is a little pricey but worth it!</text>
+      <aspectTerms>
+         <aspectTerm term="procedure" polarity="Conflict" from="4" to="13"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="cIwa4jIv9yE_rGSBS_mqaQ" sent_id="cIwa4jIv9yE_rGSBS_mqaQ_1" sentiment="Negative">
+      <text>The service is touch-and-go (good at times and bad other times) and the food is consistently bland &amp; boring.</text>
+      <aspectTerms>
+         <aspectTerm term="service" polarity="Conflict" from="4" to="11"/>
+         <aspectTerm term="food" polarity="Negative" from="72" to="76"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="sM_vBTOVTF4VjzsMdXjkbA" sent_id="sM_vBTOVTF4VjzsMdXjkbA_2" sentiment="Neutral">
+      <text>Service can be slow but that is understandable - they stay pretty busy but it's worth the wait.</text>
+      <aspectTerms>
+         <aspectTerm term="Service" polarity="Conflict" from="0" to="7"/>
+         <aspectTerm term="wait" polarity="Conflict" from="90" to="94"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="jpfcNLNG9jo-ezbotmJ0OA" sent_id="jpfcNLNG9jo-ezbotmJ0OA_2" sentiment="Neutral">
+      <text>Food was delicious but could have used just a bit more meat in the sandwich!</text>
+      <aspectTerms>
+         <aspectTerm term="Food" polarity="Conflict" from="0" to="4"/>
+         <aspectTerm term="sandwich" polarity="Conflict" from="67" to="75"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="n7QgZQZOY8qK0J6Pz8oz5g" sent_id="n7QgZQZOY8qK0J6Pz8oz5g_7" sentiment="Neutral">
+      <text>The room was okay; not stunning but not bad.</text>
+      <aspectTerms>
+         <aspectTerm term="room" polarity="Conflict" from="4" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="zMDTQoIejYotnMLzaDJFlA" sent_id="zMDTQoIejYotnMLzaDJFlA_12" sentiment="Neutral">
+      <text>The wait is long but isn't too bad.</text>
+      <aspectTerms>
+         <aspectTerm term="wait" polarity="Conflict" from="4" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="PSOx1kTcj2CFoUNvy90ITQ" sent_id="PSOx1kTcj2CFoUNvy90ITQ_10" sentiment="Neutral">
+      <text>The wine list was impressive but most were too costly.</text>
+      <aspectTerms>
+         <aspectTerm term="wine list" polarity="Conflict" from="4" to="13"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="PSOx1kTcj2CFoUNvy90ITQ" sent_id="PSOx1kTcj2CFoUNvy90ITQ_12" sentiment="Neutral">
+      <text>Dessert was pretty good creme brulee but nothing to write home about.</text>
+      <aspectTerms>
+         <aspectTerm term="Dessert" polarity="Conflict" from="0" to="7"/>
+         <aspectTerm term="creme brulee" polarity="Conflict" from="24" to="36"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="yKVehH-sKZ7wYQDUHGKcVQ" sent_id="yKVehH-sKZ7wYQDUHGKcVQ_5" sentiment="Positive">
+      <text>The food is expensive but very flavorful and the portions are generous.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Conflict" from="4" to="8"/>
+         <aspectTerm term="portions" polarity="Positive" from="49" to="57"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="HlMnYzaTn0Kg4pAEtYHCiA" sent_id="HlMnYzaTn0Kg4pAEtYHCiA_4" sentiment="Neutral">
+      <text>The seafood noodles were good but could be better .</text>
+      <aspectTerms>
+         <aspectTerm term="seafood noodles" polarity="Conflict" from="4" to="19"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="G2jpzUFFhyONEKcFMxinUA" sent_id="G2jpzUFFhyONEKcFMxinUA_2" sentiment="Neutral">
+      <text>The food did taste good, not stellar but better than a burger.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Conflict" from="4" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="xlcvCgRzRSUfDNNOqZQJfw" sent_id="xlcvCgRzRSUfDNNOqZQJfw_21" sentiment="Neutral">
+      <text>The food was fine for a brewpub, but nothing special.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Conflict" from="4" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="dUfdJE3MOGxM2Baq_F5Iow" sent_id="dUfdJE3MOGxM2Baq_F5Iow_10" sentiment="Neutral">
+      <text>The meatballs are so delicious but they are small.</text>
+      <aspectTerms>
+         <aspectTerm term="meatballs" polarity="Conflict" from="4" to="13"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="2LKNEViYoYk550pdkkBtBg" sent_id="2LKNEViYoYk550pdkkBtBg_1" sentiment="Negative">
+      <text>The food was great but they seem a bit dysfunctional still and the wait was way too long for all the servers they have.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Conflict" from="4" to="8"/>
+         <aspectTerm term="wait" polarity="Negative" from="67" to="71"/>
+         <aspectTerm term="servers" polarity="Neutral" from="101" to="108"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="dnpC5osc35RyWAUVyaBZyQ" sent_id="dnpC5osc35RyWAUVyaBZyQ_2" sentiment="Neutral">
+      <text>Not amazing food but nice and nutritious.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Conflict" from="12" to="16"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="dnpC5osc35RyWAUVyaBZyQ" sent_id="dnpC5osc35RyWAUVyaBZyQ_3" sentiment="Neutral">
+      <text>The prices a bit on the high side but I'll pay for healthy food.</text>
+      <aspectTerms>
+         <aspectTerm term="prices" polarity="Conflict" from="4" to="10"/>
+         <aspectTerm term="food" polarity="Conflict" from="59" to="63"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="krhPkNxXsCEaU7OW-WJ6lA" sent_id="krhPkNxXsCEaU7OW-WJ6lA_14" sentiment="Neutral">
+      <text>My boyfriend had the swordfish which was small and pretty bland, though with nice texture.</text>
+      <aspectTerms>
+         <aspectTerm term="swordfish" polarity="Conflict" from="21" to="30"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="57gvOrXLtr45MppOxy332g" sent_id="57gvOrXLtr45MppOxy332g_1" sentiment="Neutral">
+      <text>The size was decent, but the burger was tasteless.</text>
+      <aspectTerms>
+         <aspectTerm term="burger" polarity="Conflict" from="29" to="35"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="57gvOrXLtr45MppOxy332g" sent_id="57gvOrXLtr45MppOxy332g_2" sentiment="Neutral">
+      <text>The staff looked unhappy, but then again it was 1 am on hhn.</text>
+      <aspectTerms>
+         <aspectTerm term="staff" polarity="Conflict" from="4" to="9"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="KvD6ZSiEE-nzRronq5pC5A" sent_id="KvD6ZSiEE-nzRronq5pC5A_19" sentiment="Neutral">
+      <text>Parking here may or may not be difficult.</text>
+      <aspectTerms>
+         <aspectTerm term="Parking" polarity="Conflict" from="0" to="7"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="xVDYpwp04MfMPl8hIYtGjA" sent_id="xVDYpwp04MfMPl8hIYtGjA_3" sentiment="Neutral">
+      <text>A little pricy but plenty of pizza for the price.</text>
+      <aspectTerms>
+         <aspectTerm term="pizza" polarity="Conflict" from="29" to="34"/>
+         <aspectTerm term="price" polarity="Conflict" from="43" to="48"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="WVErQsVBlRF4oOgZfjeOPw" sent_id="WVErQsVBlRF4oOgZfjeOPw_2" sentiment="Neutral">
+      <text>Service wasn't bad, it just wasn't great.</text>
+      <aspectTerms>
+         <aspectTerm term="Service" polarity="Conflict" from="0" to="7"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="WVErQsVBlRF4oOgZfjeOPw" sent_id="WVErQsVBlRF4oOgZfjeOPw_5" sentiment="Neutral">
+      <text>Our food was fine but it was pretty expensive for what it was.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Conflict" from="4" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="5h1UDJbCn_CcRLVSTVMDkg" sent_id="5h1UDJbCn_CcRLVSTVMDkg_1" sentiment="Neutral">
+      <text>Went here for dinner with a friend.</text>
+      <aspectTerms>
+         <aspectTerm term="dinner" polarity="Neutral" from="14" to="20"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="uGGnRNGDjzWwnTSuQTWjWg" sent_id="uGGnRNGDjzWwnTSuQTWjWg_4" sentiment="Neutral">
+      <text>I ate it and the food was fine but nothing special.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Conflict" from="17" to="21"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="dUfdJE3MOGxM2Baq_F5Iow" sent_id="dUfdJE3MOGxM2Baq_F5Iow_13" sentiment="Neutral">
+      <text>The caesar salad was delicious, but nothing out of the norm.</text>
+      <aspectTerms>
+         <aspectTerm term="caesar salad" polarity="Conflict" from="4" to="16"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="4KL-aWVE8vJ7ylqRbUgM3Q" sent_id="4KL-aWVE8vJ7ylqRbUgM3Q_4" sentiment="Negative">
+      <text>Got my food served and was still waiting for water.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Neutral" from="7" to="11"/>
+         <aspectTerm term="water" polarity="Neutral" from="45" to="50"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="JELja6GzQpdCjdW-XJVlsA" sent_id="JELja6GzQpdCjdW-XJVlsA_7" sentiment="Neutral">
+      <text>I had the mushrooms risotto ..</text>
+      <aspectTerms>
+         <aspectTerm term="mushrooms risotto" polarity="Neutral" from="10" to="27"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="v1Y2eNKQbGuMvPfSfuNAgw" sent_id="v1Y2eNKQbGuMvPfSfuNAgw_4" sentiment="Neutral">
+      <text>My masseuse started with my upper body while my feet soaked.</text>
+      <aspectTerms>
+         <aspectTerm term="masseuse" polarity="Neutral" from="3" to="11"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="y8O8F6P81y5afDjrHQbqFw" sent_id="y8O8F6P81y5afDjrHQbqFw_2" sentiment="Neutral">
+      <text>Price is about average.</text>
+      <aspectTerms>
+         <aspectTerm term="Price" polarity="Neutral" from="0" to="5"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="VKBc48PPwyWIUE1RhBT_8A" sent_id="VKBc48PPwyWIUE1RhBT_8A_6" sentiment="Neutral">
+      <text>When we did see our server, she was taking an order at another table, and then 5 minutes later brought those people their drinks.</text>
+      <aspectTerms>
+         <aspectTerm term="server" polarity="Neutral" from="20" to="26"/>
+         <aspectTerm term="table" polarity="Neutral" from="63" to="68"/>
+         <aspectTerm term="drinks" polarity="Neutral" from="122" to="128"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="-e9Plz16Y9qS-vyBRWYlrA" sent_id="-e9Plz16Y9qS-vyBRWYlrA_4" sentiment="Neutral">
+      <text>I asked for a scissor trim cuz I didn't want to take much off.</text>
+      <aspectTerms>
+         <aspectTerm term="scissor trim" polarity="Neutral" from="14" to="26"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="9ZQLvJ6VZ4ZtcadtkhLp5w" sent_id="9ZQLvJ6VZ4ZtcadtkhLp5w_5" sentiment="Negative">
+      <text>The layout is cramped, and the service is not friendly, bordering on rude, always.</text>
+      <aspectTerms>
+         <aspectTerm term="layout" polarity="Negative" from="4" to="10"/>
+         <aspectTerm term="service" polarity="Negative" from="31" to="38"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="vL1JYw4UW7dCLjY5Dz4nvw" sent_id="vL1JYw4UW7dCLjY5Dz4nvw_5" sentiment="Neutral">
+      <text>We had their house special pho, chicken skewers, spring rolls and rice paper rolls.</text>
+      <aspectTerms>
+         <aspectTerm term="house special pho" polarity="Neutral" from="13" to="30"/>
+         <aspectTerm term="chicken skewers" polarity="Neutral" from="32" to="47"/>
+         <aspectTerm term="spring rolls" polarity="Neutral" from="49" to="61"/>
+         <aspectTerm term="rice paper rolls" polarity="Neutral" from="66" to="82"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Zx6GEphVUaMAsy8MFNkxjA" sent_id="Zx6GEphVUaMAsy8MFNkxjA_23" sentiment="Neutral">
+      <text>We got the bruschetta.</text>
+      <aspectTerms>
+         <aspectTerm term="bruschetta" polarity="Neutral" from="11" to="21"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="6m0jRBbK2Z-enx5GkqdA1A" sent_id="6m0jRBbK2Z-enx5GkqdA1A_47" sentiment="Neutral">
+      <text>Our server was starting his first day and had a manager shadowing him.</text>
+      <aspectTerms>
+         <aspectTerm term="server" polarity="Neutral" from="4" to="10"/>
+         <aspectTerm term="manager" polarity="Neutral" from="48" to="55"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="I4CwOhiwTIyakBv-OMZ-hg" sent_id="I4CwOhiwTIyakBv-OMZ-hg_1" sentiment="Neutral">
+      <text>I had one hour appointment with Dr. Wong.</text>
+      <aspectTerms>
+         <aspectTerm term="Dr. Wong" polarity="Neutral" from="32" to="40"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="I4CwOhiwTIyakBv-OMZ-hg" sent_id="I4CwOhiwTIyakBv-OMZ-hg_10" sentiment="Neutral">
+      <text>Dr. Wong told me I have one teeth needs be filled.</text>
+      <aspectTerms>
+         <aspectTerm term="Dr. Wong" polarity="Neutral" from="0" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="TiVoU8_WyTc6MpD3Bq--Hg" sent_id="TiVoU8_WyTc6MpD3Bq--Hg_6" sentiment="Neutral">
+      <text>They also have set up outdoor seating.</text>
+      <aspectTerms>
+         <aspectTerm term="outdoor seating" polarity="Neutral" from="22" to="37"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Z3x0tfwm4nCeh6V_am9oAw" sent_id="Z3x0tfwm4nCeh6V_am9oAw_7" sentiment="Neutral">
+      <text>The macarons are $1.75 for single, 7 for 12.95, and 12 for $19.95.</text>
+      <aspectTerms>
+         <aspectTerm term="macarons" polarity="Neutral" from="4" to="12"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="n-_OLjnLbC5s9gMuSdURhw" sent_id="n-_OLjnLbC5s9gMuSdURhw_4" sentiment="Negative">
+      <text>Some of the servers are clueless.</text>
+      <aspectTerms>
+         <aspectTerm term="servers" polarity="Negative" from="12" to="19"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="AINXVhMVGkTdJsJ_vUJucg" sent_id="AINXVhMVGkTdJsJ_vUJucg_4" sentiment="Neutral">
+      <text>I ordered: Coco wrap and Taiwanese pork buns.</text>
+      <aspectTerms>
+         <aspectTerm term="Coco wrap" polarity="Neutral" from="11" to="20"/>
+         <aspectTerm term="Taiwanese pork buns" polarity="Neutral" from="25" to="44"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="3F_KaCk225mVt-MA43SkZw" sent_id="3F_KaCk225mVt-MA43SkZw_9" sentiment="Neutral">
+      <text>I had the calamari puttenesca and my wife had shrimp and asparagus risotto.</text>
+      <aspectTerms>
+         <aspectTerm term="calamari puttenesca" polarity="Neutral" from="10" to="29"/>
+         <aspectTerm term="shrimp" polarity="Neutral" from="46" to="52"/>
+         <aspectTerm term="asparagus risotto" polarity="Neutral" from="57" to="74"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="ccIBPEXDsb2aRvchWAH4Fw" sent_id="ccIBPEXDsb2aRvchWAH4Fw_3" sentiment="Neutral">
+      <text>The food is ok for hotel food.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Neutral" from="4" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="ccIBPEXDsb2aRvchWAH4Fw" sent_id="ccIBPEXDsb2aRvchWAH4Fw_6" sentiment="Neutral">
+      <text>For lunch I had a Greek salad and my boss had the steak salad.</text>
+      <aspectTerms>
+         <aspectTerm term="lunch" polarity="Neutral" from="4" to="9"/>
+         <aspectTerm term="Greek salad" polarity="Neutral" from="18" to="29"/>
+         <aspectTerm term="steak salad" polarity="Neutral" from="50" to="61"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="ccIBPEXDsb2aRvchWAH4Fw" sent_id="ccIBPEXDsb2aRvchWAH4Fw_10" sentiment="Neutral">
+      <text>The following day we had breakfast at Trevi's.</text>
+      <aspectTerms>
+         <aspectTerm term="breakfast" polarity="Neutral" from="25" to="34"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Iqi2bst3GBOIjSXoxB7e3w" sent_id="Iqi2bst3GBOIjSXoxB7e3w_2" sentiment="Neutral">
+      <text>The customer service was unbelievable!</text>
+      <aspectTerms>
+         <aspectTerm term="customer service" polarity="Neutral" from="4" to="20"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="OJI0V5XIV852ek6ox9CROw" sent_id="OJI0V5XIV852ek6ox9CROw_3" sentiment="Neutral">
+      <text>Take out and delivery only.</text>
+      <aspectTerms>
+         <aspectTerm term="Take out" polarity="Neutral" from="0" to="8"/>
+         <aspectTerm term="delivery" polarity="Neutral" from="13" to="21"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="4mmjSMkp3f0Dmtul_kBmcw" sent_id="4mmjSMkp3f0Dmtul_kBmcw_2" sentiment="Negative">
+      <text>Having to wait 30 minutes to get upstairs where the DJ is playing is pretty ridiculous.</text>
+      <aspectTerms>
+         <aspectTerm term="upstairs" polarity="Neutral" from="33" to="41"/>
+         <aspectTerm term="DJ" polarity="Neutral" from="52" to="54"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="WxtexJU7PURobcNhRmGB7g" sent_id="WxtexJU7PURobcNhRmGB7g_10" sentiment="Neutral">
+      <text>There were scrambled eggs, sausage, biscuits, bread, bagels, muffins, cereal, Texas shaped waffles, and yogurt.</text>
+      <aspectTerms>
+         <aspectTerm term="scrambled eggs" polarity="Neutral" from="11" to="25"/>
+         <aspectTerm term="sausage" polarity="Neutral" from="27" to="34"/>
+         <aspectTerm term="biscuits" polarity="Neutral" from="36" to="44"/>
+         <aspectTerm term="bread" polarity="Neutral" from="46" to="51"/>
+         <aspectTerm term="bagels" polarity="Neutral" from="53" to="59"/>
+         <aspectTerm term="muffins" polarity="Neutral" from="61" to="68"/>
+         <aspectTerm term="cereal" polarity="Neutral" from="70" to="76"/>
+         <aspectTerm term="waffles" polarity="Neutral" from="91" to="98"/>
+         <aspectTerm term="yogurt" polarity="Neutral" from="104" to="110"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="QBPodZG2JVAEgkQTbUyGug" sent_id="QBPodZG2JVAEgkQTbUyGug_1" sentiment="Neutral">
+      <text>This was my first time having Georgia as my hair stylist.</text>
+      <aspectTerms>
+         <aspectTerm term="hair stylist" polarity="Neutral" from="44" to="56"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="nRTrjlCEajT3MVsxg4gLpg" sent_id="nRTrjlCEajT3MVsxg4gLpg_1" sentiment="Neutral">
+      <text>I ordered a tonkotsu ramen.</text>
+      <aspectTerms>
+         <aspectTerm term="tonkotsu ramen" polarity="Neutral" from="12" to="26"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="5ddz4swJewx5gsKduv_qEw" sent_id="5ddz4swJewx5gsKduv_qEw_2" sentiment="Neutral">
+      <text>My friend and I both ordered dinner combos.</text>
+      <aspectTerms>
+         <aspectTerm term="dinner combos" polarity="Neutral" from="29" to="42"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="5ddz4swJewx5gsKduv_qEw" sent_id="5ddz4swJewx5gsKduv_qEw_3" sentiment="Neutral">
+      <text>I had chicken teriyaki with spicy tuna rolls, and she had veggie dumplings with spicy salmon rolls.</text>
+      <aspectTerms>
+         <aspectTerm term="chicken teriyaki" polarity="Neutral" from="6" to="22"/>
+         <aspectTerm term="spicy tuna rolls" polarity="Neutral" from="28" to="44"/>
+         <aspectTerm term="veggie dumplings" polarity="Neutral" from="58" to="74"/>
+         <aspectTerm term="spicy salmon rolls" polarity="Neutral" from="80" to="98"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="MTo0rI-MWXDCVy6H63iH6Q" sent_id="MTo0rI-MWXDCVy6H63iH6Q_4" sentiment="Neutral">
+      <text>His pricing is also extremely competitive.</text>
+      <aspectTerms>
+         <aspectTerm term="pricing" polarity="Neutral" from="4" to="11"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="1rwXMcCAal1nC7jcWVZy9A" sent_id="1rwXMcCAal1nC7jcWVZy9A_2" sentiment="Neutral">
+      <text>Had the classic burger- plain and simple.</text>
+      <aspectTerms>
+         <aspectTerm term="classic burger" polarity="Neutral" from="8" to="22"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="r4cnQuec0vzwE7A2zOtj9g" sent_id="r4cnQuec0vzwE7A2zOtj9g_5" sentiment="Neutral">
+      <text>The chicken waffle is strange.</text>
+      <aspectTerms>
+         <aspectTerm term="chicken waffle" polarity="Neutral" from="4" to="18"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="eVVktERSXmiEApHPYfamZg" sent_id="eVVktERSXmiEApHPYfamZg_3" sentiment="Neutral">
+      <text>We tried the white pie with spinach, the meatball pizza, and the pepperoni pizza.</text>
+      <aspectTerms>
+         <aspectTerm term="white pie with spinach" polarity="Neutral" from="13" to="35"/>
+         <aspectTerm term="meatball pizza" polarity="Neutral" from="41" to="55"/>
+         <aspectTerm term="pepperoni pizza" polarity="Neutral" from="65" to="80"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="ij7P_FG1_5z1K27vdt0G5g" sent_id="ij7P_FG1_5z1K27vdt0G5g_2" sentiment="Neutral">
+      <text>My boyfriend and I each ordered sweet crepes.</text>
+      <aspectTerms>
+         <aspectTerm term="sweet crepes" polarity="Neutral" from="32" to="44"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="nI4wMGNuOIW4dCzroCvp-A" sent_id="nI4wMGNuOIW4dCzroCvp-A_3" sentiment="Neutral">
+      <text>Had the green curry, pad thai and coconut chicken mushroom soup.</text>
+      <aspectTerms>
+         <aspectTerm term="green curry" polarity="Neutral" from="8" to="19"/>
+         <aspectTerm term="pad thai" polarity="Neutral" from="21" to="29"/>
+         <aspectTerm term="coconut chicken mushroom soup" polarity="Neutral" from="34" to="63"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="vHsRa_5lknXrQRVrXjmw1A" sent_id="vHsRa_5lknXrQRVrXjmw1A_1" sentiment="Neutral">
+      <text>I go in asking for a vegan glazed donut.</text>
+      <aspectTerms>
+         <aspectTerm term="vegan glazed donut" polarity="Neutral" from="21" to="39"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="EL_Gcdw11CIgbBnh0fdW6Q" sent_id="EL_Gcdw11CIgbBnh0fdW6Q_2" sentiment="Neutral">
+      <text>I had a mango tango and a maple crueller.</text>
+      <aspectTerms>
+         <aspectTerm term="mango tango" polarity="Neutral" from="8" to="19"/>
+         <aspectTerm term="maple crueller" polarity="Neutral" from="26" to="40"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="_BtdovRdZEA3FE21GWZTkw" sent_id="_BtdovRdZEA3FE21GWZTkw_2" sentiment="Neutral">
+      <text>I ordered sliders, Chicken wings, onion rings and 2 drinks.</text>
+      <aspectTerms>
+         <aspectTerm term="sliders" polarity="Neutral" from="10" to="17"/>
+         <aspectTerm term="Chicken wings" polarity="Neutral" from="19" to="32"/>
+         <aspectTerm term="onion rings" polarity="Neutral" from="34" to="45"/>
+         <aspectTerm term="drinks" polarity="Neutral" from="52" to="58"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="hSE_xsVRdcHg7XTaaqdUmg" sent_id="hSE_xsVRdcHg7XTaaqdUmg_6" sentiment="Neutral">
+      <text>The waiter was obviously new, and nervous..</text>
+      <aspectTerms>
+         <aspectTerm term="waiter" polarity="Neutral" from="4" to="10"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="BRfXDZjsFcUG_c3cW9N_aA" sent_id="BRfXDZjsFcUG_c3cW9N_aA_4" sentiment="Neutral">
+      <text>As we waited for our food, we watched another table get served.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Neutral" from="21" to="25"/>
+         <aspectTerm term="table" polarity="Neutral" from="46" to="51"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="BRfXDZjsFcUG_c3cW9N_aA" sent_id="BRfXDZjsFcUG_c3cW9N_aA_9" sentiment="Neutral">
+      <text>Shortly thereafter, they brought us our food.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Neutral" from="40" to="44"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="BRfXDZjsFcUG_c3cW9N_aA" sent_id="BRfXDZjsFcUG_c3cW9N_aA_10" sentiment="Negative">
+      <text>They had served the other table our food by mistake.</text>
+      <aspectTerms>
+         <aspectTerm term="table" polarity="Neutral" from="26" to="31"/>
+         <aspectTerm term="food" polarity="Neutral" from="36" to="40"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="riabw7gzUg2LCefXOMdZrA" sent_id="riabw7gzUg2LCefXOMdZrA_3" sentiment="Neutral">
+      <text>We had the Papas Fritas, Chilaquiles, Queso Fundido, Tacos and margaritas.</text>
+      <aspectTerms>
+         <aspectTerm term="Papas Fritas" polarity="Neutral" from="11" to="23"/>
+         <aspectTerm term="Chilaquiles" polarity="Neutral" from="25" to="36"/>
+         <aspectTerm term="Queso Fundido" polarity="Neutral" from="38" to="51"/>
+         <aspectTerm term="Tacos" polarity="Neutral" from="53" to="58"/>
+         <aspectTerm term="margaritas" polarity="Neutral" from="63" to="73"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="riabw7gzUg2LCefXOMdZrA" sent_id="riabw7gzUg2LCefXOMdZrA_7" sentiment="Neutral">
+      <text>$3-$7 for food and drinks around $5.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Neutral" from="10" to="14"/>
+         <aspectTerm term="drinks" polarity="Neutral" from="19" to="25"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Ap_tphU0mtmkTmsD9dmeSw" sent_id="Ap_tphU0mtmkTmsD9dmeSw_3" sentiment="Neutral">
+      <text>We had salted caramel lattes, waffle with berry compote, the frittata, and the wolves breakfast.</text>
+      <aspectTerms>
+         <aspectTerm term="salted caramel lattes" polarity="Neutral" from="7" to="28"/>
+         <aspectTerm term="waffle with berry compote" polarity="Neutral" from="30" to="55"/>
+         <aspectTerm term="frittata" polarity="Neutral" from="61" to="69"/>
+         <aspectTerm term="wolves breakfast" polarity="Neutral" from="79" to="95"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="YCdERRpVytz3bMCHXtqoRQ" sent_id="YCdERRpVytz3bMCHXtqoRQ_17" sentiment="Neutral">
+      <text>We then had the pork jowl and the wagyu short rib.</text>
+      <aspectTerms>
+         <aspectTerm term="pork jowl" polarity="Neutral" from="16" to="25"/>
+         <aspectTerm term="wagyu short rib" polarity="Neutral" from="34" to="49"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="iezQhPYwU4pm9pUUkFTmbQ" sent_id="iezQhPYwU4pm9pUUkFTmbQ_16" sentiment="Neutral">
+      <text>Desserts are all $2.50.</text>
+      <aspectTerms>
+         <aspectTerm term="Desserts" polarity="Neutral" from="0" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="ZU3r87qM7K8Zj3a9D5P7Tg" sent_id="ZU3r87qM7K8Zj3a9D5P7Tg_9" sentiment="Neutral">
+      <text>The sangria was okay.</text>
+      <aspectTerms>
+         <aspectTerm term="sangria" polarity="Neutral" from="4" to="11"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="w9T8Zuqea32nqCfv69_zcQ" sent_id="w9T8Zuqea32nqCfv69_zcQ_3" sentiment="Negative">
+      <text>Ordered food after being ignored for a little bit, restaurant was not busy at all.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Neutral" from="8" to="12"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="w9T8Zuqea32nqCfv69_zcQ" sent_id="w9T8Zuqea32nqCfv69_zcQ_4" sentiment="Neutral">
+      <text>We were a party of 3; 2 of us ordered the chicken enchilada soup.</text>
+      <aspectTerms>
+         <aspectTerm term="chicken enchilada soup" polarity="Neutral" from="42" to="64"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="w9T8Zuqea32nqCfv69_zcQ" sent_id="w9T8Zuqea32nqCfv69_zcQ_11" sentiment="Negative">
+      <text>Our waiter was apologetic, but overall a bad experience.</text>
+      <aspectTerms>
+         <aspectTerm term="waiter" polarity="Negative" from="4" to="10"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="LM8HaYjf4kJR7VRpNH9uYg" sent_id="LM8HaYjf4kJR7VRpNH9uYg_18" sentiment="Neutral">
+      <text>Some of the sauces were quite strange as well.</text>
+      <aspectTerms>
+         <aspectTerm term="sauces" polarity="Neutral" from="12" to="18"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="LM8HaYjf4kJR7VRpNH9uYg" sent_id="LM8HaYjf4kJR7VRpNH9uYg_25" sentiment="Neutral">
+      <text>The Fried Milk dessert had several things going on with it - none of which connected.</text>
+      <aspectTerms>
+         <aspectTerm term="Fried Milk dessert" polarity="Neutral" from="4" to="22"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="q9RyJ7v8GPIJ91GoOie57w" sent_id="q9RyJ7v8GPIJ91GoOie57w_7" sentiment="Neutral">
+      <text>She also fixed the menu.</text>
+      <aspectTerms>
+         <aspectTerm term="menu" polarity="Neutral" from="19" to="23"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Q4MqZN4uOebJpVRn7k4Tww" sent_id="Q4MqZN4uOebJpVRn7k4Tww_2" sentiment="Neutral">
+      <text>Frites, poutine, and Belgian waffle sandwiches on the menu.</text>
+      <aspectTerms>
+         <aspectTerm term="Frites" polarity="Neutral" from="0" to="6"/>
+         <aspectTerm term="poutine" polarity="Neutral" from="8" to="15"/>
+         <aspectTerm term="Belgian waffle sandwiches" polarity="Neutral" from="21" to="46"/>
+         <aspectTerm term="menu" polarity="Neutral" from="54" to="58"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="eK28sbquLl5_GyAXSUn3Qg" sent_id="eK28sbquLl5_GyAXSUn3Qg_4" sentiment="Neutral">
+      <text>I had the beef lovers enchiladas.</text>
+      <aspectTerms>
+         <aspectTerm term="beef lovers enchiladas" polarity="Neutral" from="10" to="32"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="eK28sbquLl5_GyAXSUn3Qg" sent_id="eK28sbquLl5_GyAXSUn3Qg_7" sentiment="Neutral">
+      <text>We had a friend with us that ordered pastor tacos.</text>
+      <aspectTerms>
+         <aspectTerm term="pastor tacos" polarity="Neutral" from="37" to="49"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="vI2bA5lwKN3-gk5JLW8rog" sent_id="vI2bA5lwKN3-gk5JLW8rog_7" sentiment="Neutral">
+      <text>I had the vegetable ramen which I noticed no one else ordered.</text>
+      <aspectTerms>
+         <aspectTerm term="vegetable ramen" polarity="Neutral" from="10" to="25"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="vI2bA5lwKN3-gk5JLW8rog" sent_id="vI2bA5lwKN3-gk5JLW8rog_25" sentiment="Neutral">
+      <text>Soft drinks and beer was also available.</text>
+      <aspectTerms>
+         <aspectTerm term="Soft drinks" polarity="Neutral" from="0" to="11"/>
+         <aspectTerm term="beer" polarity="Neutral" from="16" to="20"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="gN4Wb9pK-so0FymAgJb3Ug" sent_id="gN4Wb9pK-so0FymAgJb3Ug_14" sentiment="Neutral">
+      <text>The meat served is several types.</text>
+      <aspectTerms>
+         <aspectTerm term="meat" polarity="Neutral" from="4" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="gN4Wb9pK-so0FymAgJb3Ug" sent_id="gN4Wb9pK-so0FymAgJb3Ug_16" sentiment="Neutral">
+      <text>He tried lamb.</text>
+      <aspectTerms>
+         <aspectTerm term="lamb" polarity="Neutral" from="9" to="13"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="OJh_RALow6FemCkHGlumFg" sent_id="OJh_RALow6FemCkHGlumFg_2" sentiment="Neutral">
+      <text>We did not make reservation.</text>
+      <aspectTerms>
+         <aspectTerm term="reservation" polarity="Neutral" from="16" to="27"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="OJh_RALow6FemCkHGlumFg" sent_id="OJh_RALow6FemCkHGlumFg_14" sentiment="Neutral">
+      <text>When the manager passed by, I told him about my whole experience.</text>
+      <aspectTerms>
+         <aspectTerm term="manager" polarity="Neutral" from="9" to="16"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Cif9GKCHMAe8HNGEEKbt6g" sent_id="Cif9GKCHMAe8HNGEEKbt6g_5" sentiment="Neutral">
+      <text>I had to talk to the manager in order to get him to update his website.</text>
+      <aspectTerms>
+         <aspectTerm term="manager" polarity="Neutral" from="21" to="28"/>
+         <aspectTerm term="website" polarity="Neutral" from="63" to="70"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="DrsQSw5BE6_JRvSXQa6Ryw" sent_id="DrsQSw5BE6_JRvSXQa6Ryw_4" sentiment="Neutral">
+      <text>The workouts are different every day.</text>
+      <aspectTerms>
+         <aspectTerm term="workouts" polarity="Neutral" from="4" to="12"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="IvWpXUClbpLTuM-untCekw" sent_id="IvWpXUClbpLTuM-untCekw_3" sentiment="Neutral">
+      <text>You can get drinks and some food while you play and mingle.</text>
+      <aspectTerms>
+         <aspectTerm term="drinks" polarity="Neutral" from="12" to="18"/>
+         <aspectTerm term="food" polarity="Neutral" from="28" to="32"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="E_wTFr22SZiUslE1GU2f7w" sent_id="E_wTFr22SZiUslE1GU2f7w_5" sentiment="Neutral">
+      <text>Average pizza.</text>
+      <aspectTerms>
+         <aspectTerm term="pizza" polarity="Neutral" from="8" to="13"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="E_wTFr22SZiUslE1GU2f7w" sent_id="E_wTFr22SZiUslE1GU2f7w_7" sentiment="Neutral">
+      <text>We ordered delivery through the website.</text>
+      <aspectTerms>
+         <aspectTerm term="delivery" polarity="Neutral" from="11" to="19"/>
+         <aspectTerm term="website" polarity="Neutral" from="32" to="39"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="6fBYm3eBa9qRt3eygDS-vA" sent_id="6fBYm3eBa9qRt3eygDS-vA_3" sentiment="Neutral">
+      <text>the food was okay.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Neutral" from="4" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="oS4-a7ddpOZtj-uEye3ZTg" sent_id="oS4-a7ddpOZtj-uEye3ZTg_2" sentiment="Neutral">
+      <text>I tried the chocolate succe, lime mousse, passionfruit mousse, chocolate trio, almond croissant, lemon tart and a latte.</text>
+      <aspectTerms>
+         <aspectTerm term="chocolate succe" polarity="Neutral" from="12" to="27"/>
+         <aspectTerm term="lime mousse" polarity="Neutral" from="29" to="40"/>
+         <aspectTerm term="passionfruit mousse" polarity="Neutral" from="42" to="61"/>
+         <aspectTerm term="chocolate trio" polarity="Neutral" from="63" to="77"/>
+         <aspectTerm term="almond croissant" polarity="Neutral" from="79" to="95"/>
+         <aspectTerm term="lemon tart" polarity="Neutral" from="97" to="107"/>
+         <aspectTerm term="latte" polarity="Neutral" from="114" to="119"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="7NYl4pBWIQ8x3IialjHJaw" sent_id="7NYl4pBWIQ8x3IialjHJaw_7" sentiment="Neutral">
+      <text>Stir fried tofu - I'm assuming it was soaked in wine.</text>
+      <aspectTerms>
+         <aspectTerm term="Stir fried tofu" polarity="Neutral" from="0" to="15"/>
+         <aspectTerm term="wine" polarity="Neutral" from="48" to="52"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="7NYl4pBWIQ8x3IialjHJaw" sent_id="7NYl4pBWIQ8x3IialjHJaw_9" sentiment="Neutral">
+      <text>The tofu had sesame seeds on it and it as a slice.</text>
+      <aspectTerms>
+         <aspectTerm term="tofu" polarity="Neutral" from="4" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="5vEWph1aLdtQKjoC4_KLhQ" sent_id="5vEWph1aLdtQKjoC4_KLhQ_1" sentiment="Neutral">
+      <text>Food was average.</text>
+      <aspectTerms>
+         <aspectTerm term="Food" polarity="Neutral" from="0" to="4"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="5vEWph1aLdtQKjoC4_KLhQ" sent_id="5vEWph1aLdtQKjoC4_KLhQ_2" sentiment="Neutral">
+      <text>Prices were average for the food.</text>
+      <aspectTerms>
+         <aspectTerm term="Prices" polarity="Neutral" from="0" to="6"/>
+         <aspectTerm term="food" polarity="Neutral" from="28" to="32"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="rZchLUbZ3TR_g7txILmgmA" sent_id="rZchLUbZ3TR_g7txILmgmA_3" sentiment="Neutral">
+      <text>My drink was strong and biting rather than smooth.</text>
+      <aspectTerms>
+         <aspectTerm term="drink" polarity="Neutral" from="3" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="xGossK-M10dCOX5XhSCdCQ" sent_id="xGossK-M10dCOX5XhSCdCQ_1" sentiment="Neutral">
+      <text>Only the second massage of my life!!</text>
+      <aspectTerms>
+         <aspectTerm term="massage" polarity="Neutral" from="16" to="23"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="5QCWr8J1bMU2sczB19-WJA" sent_id="5QCWr8J1bMU2sczB19-WJA_16" sentiment="Neutral">
+      <text>I had the fried rice with it, and it was plain.</text>
+      <aspectTerms>
+         <aspectTerm term="fried rice" polarity="Neutral" from="10" to="20"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="5QCWr8J1bMU2sczB19-WJA" sent_id="5QCWr8J1bMU2sczB19-WJA_20" sentiment="Neutral">
+      <text>Prices were okay for how much you get, and how good it is.</text>
+      <aspectTerms>
+         <aspectTerm term="Prices" polarity="Neutral" from="0" to="6"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="iezQhPYwU4pm9pUUkFTmbQ" sent_id="iezQhPYwU4pm9pUUkFTmbQ_15" sentiment="Neutral">
+      <text>Appetizers range from $5-$10, while entrees range from $15-$20.</text>
+      <aspectTerms>
+         <aspectTerm term="Appetizers" polarity="Neutral" from="0" to="10"/>
+         <aspectTerm term="entrees" polarity="Neutral" from="36" to="43"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="dj6Gu8hgq6ZYiNjK5NCJgw" sent_id="dj6Gu8hgq6ZYiNjK5NCJgw_2" sentiment="Neutral">
+      <text>We had the chicken tortilla soup and guacamole.</text>
+      <aspectTerms>
+         <aspectTerm term="chicken tortilla soup" polarity="Neutral" from="11" to="32"/>
+         <aspectTerm term="guacamole" polarity="Neutral" from="37" to="46"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="dj6Gu8hgq6ZYiNjK5NCJgw" sent_id="dj6Gu8hgq6ZYiNjK5NCJgw_3" sentiment="Neutral">
+      <text>Entrees included tacos, chile relleno, and quesadilla.</text>
+      <aspectTerms>
+         <aspectTerm term="Entrees" polarity="Neutral" from="0" to="7"/>
+         <aspectTerm term="tacos" polarity="Neutral" from="17" to="22"/>
+         <aspectTerm term="chile relleno" polarity="Neutral" from="24" to="37"/>
+         <aspectTerm term="quesadilla" polarity="Neutral" from="43" to="53"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="WrIRfAwMa8QD7D3eSOVOgg" sent_id="WrIRfAwMa8QD7D3eSOVOgg_2" sentiment="Neutral">
+      <text>I ordered the fried chicken with collard greens and fried okra.</text>
+      <aspectTerms>
+         <aspectTerm term="fried chicken with collard greens" polarity="Neutral" from="14" to="47"/>
+         <aspectTerm term="fried okra" polarity="Neutral" from="52" to="62"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="44XvR1qpeeodxrIc7fuKaA" sent_id="44XvR1qpeeodxrIc7fuKaA_8" sentiment="Neutral">
+      <text>Their menu is ok.</text>
+      <aspectTerms>
+         <aspectTerm term="menu" polarity="Neutral" from="6" to="10"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="44XvR1qpeeodxrIc7fuKaA" sent_id="44XvR1qpeeodxrIc7fuKaA_11" sentiment="Neutral">
+      <text>It comes with fries too.</text>
+      <aspectTerms>
+         <aspectTerm term="fries" polarity="Neutral" from="14" to="19"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="VSiNgkPVV2qtd6sSEjeb-A" sent_id="VSiNgkPVV2qtd6sSEjeb-A_2" sentiment="Neutral">
+      <text>Service was okay.</text>
+      <aspectTerms>
+         <aspectTerm term="Service" polarity="Neutral" from="0" to="7"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="VSiNgkPVV2qtd6sSEjeb-A" sent_id="VSiNgkPVV2qtd6sSEjeb-A_4" sentiment="Neutral">
+      <text>I had the lobster and crab dip appetizer.</text>
+      <aspectTerms>
+         <aspectTerm term="lobster and crab dip appetizer" polarity="Neutral" from="10" to="40"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="VSiNgkPVV2qtd6sSEjeb-A" sent_id="VSiNgkPVV2qtd6sSEjeb-A_6" sentiment="Neutral">
+      <text>The clam chowder was thick.</text>
+      <aspectTerms>
+         <aspectTerm term="clam chowder" polarity="Neutral" from="4" to="16"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="0s3k8ncoW4K0RiofX9UT_w" sent_id="0s3k8ncoW4K0RiofX9UT_w_5" sentiment="Neutral">
+      <text>The service was okay.</text>
+      <aspectTerms>
+         <aspectTerm term="service" polarity="Neutral" from="4" to="11"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="sYchp-GOpdM6oTXvVQxbLw" sent_id="sYchp-GOpdM6oTXvVQxbLw_4" sentiment="Neutral">
+      <text>Started with oysters, two salads.</text>
+      <aspectTerms>
+         <aspectTerm term="oysters" polarity="Neutral" from="13" to="20"/>
+         <aspectTerm term="salads" polarity="Neutral" from="26" to="32"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="sYchp-GOpdM6oTXvVQxbLw" sent_id="sYchp-GOpdM6oTXvVQxbLw_13" sentiment="Neutral">
+      <text>Started with the quinoa salad.</text>
+      <aspectTerms>
+         <aspectTerm term="quinoa salad" polarity="Neutral" from="17" to="29"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="EvY9rfGoDj7q5VWNhMBGLg" sent_id="EvY9rfGoDj7q5VWNhMBGLg_3" sentiment="Negative">
+      <text>Food is average and the service really is like they're walking through mud all the time.</text>
+      <aspectTerms>
+         <aspectTerm term="Food" polarity="Neutral" from="0" to="4"/>
+         <aspectTerm term="service" polarity="Negative" from="24" to="31"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="yftO3SbIuDPPaaEtQZEgkg" sent_id="yftO3SbIuDPPaaEtQZEgkg_10" sentiment="Neutral">
+      <text>The manager who stopped at our table a few times mentioned they only use four ingredients.</text>
+      <aspectTerms>
+         <aspectTerm term="manager" polarity="Neutral" from="4" to="11"/>
+         <aspectTerm term="table" polarity="Neutral" from="31" to="36"/>
+         <aspectTerm term="ingredients" polarity="Neutral" from="78" to="89"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="n7QgZQZOY8qK0J6Pz8oz5g" sent_id="n7QgZQZOY8qK0J6Pz8oz5g_12" sentiment="Neutral">
+      <text>The room has a fridge, sink, and microwave.</text>
+      <aspectTerms>
+         <aspectTerm term="room" polarity="Neutral" from="4" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="m3CvimSinh0nbBXtel1MSw" sent_id="m3CvimSinh0nbBXtel1MSw_3" sentiment="Neutral">
+      <text>I had the steak special with gorgonzola.</text>
+      <aspectTerms>
+         <aspectTerm term="steak special with gorgonzola" polarity="Neutral" from="10" to="39"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Aq9T-77hvgzm3KWkc5Ak0g" sent_id="Aq9T-77hvgzm3KWkc5Ak0g_3" sentiment="Neutral">
+      <text>I ordered a bacon and potato burrito.</text>
+      <aspectTerms>
+         <aspectTerm term="bacon and potato burrito" polarity="Neutral" from="12" to="36"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="zMDTQoIejYotnMLzaDJFlA" sent_id="zMDTQoIejYotnMLzaDJFlA_11" sentiment="Neutral">
+      <text>My wife had the biscuits and gravy.</text>
+      <aspectTerms>
+         <aspectTerm term="biscuits" polarity="Neutral" from="16" to="24"/>
+         <aspectTerm term="gravy" polarity="Neutral" from="29" to="34"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="sDwnnLUn4vpeaahkiriWpw" sent_id="sDwnnLUn4vpeaahkiriWpw_12" sentiment="Neutral">
+      <text>The food itself was okay</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Neutral" from="4" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="VafTUxgrpuLh7Y3ZbCTeXw" sent_id="VafTUxgrpuLh7Y3ZbCTeXw_11" sentiment="Neutral">
+      <text>The food was accompanied by jasmine tea.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Neutral" from="4" to="8"/>
+         <aspectTerm term="jasmine tea" polarity="Neutral" from="28" to="39"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="G2jpzUFFhyONEKcFMxinUA" sent_id="G2jpzUFFhyONEKcFMxinUA_9" sentiment="Neutral">
+      <text>There is outdoor seating.</text>
+      <aspectTerms>
+         <aspectTerm term="outdoor seating" polarity="Neutral" from="9" to="24"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="vdy2tJreUzzXZ5rCVKflTA" sent_id="vdy2tJreUzzXZ5rCVKflTA_6" sentiment="Neutral">
+      <text>The burgers are okay.</text>
+      <aspectTerms>
+         <aspectTerm term="burgers" polarity="Neutral" from="4" to="11"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="SauXPHFGCMQYqx9HAevoOw" sent_id="SauXPHFGCMQYqx9HAevoOw_18" sentiment="Neutral">
+      <text>The decor is basic.</text>
+      <aspectTerms>
+         <aspectTerm term="decor" polarity="Neutral" from="4" to="9"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="SauXPHFGCMQYqx9HAevoOw" sent_id="SauXPHFGCMQYqx9HAevoOw_32" sentiment="Neutral">
+      <text>Ethiopian wine is also offered.</text>
+      <aspectTerms>
+         <aspectTerm term="Ethiopian wine" polarity="Neutral" from="0" to="14"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="SauXPHFGCMQYqx9HAevoOw" sent_id="SauXPHFGCMQYqx9HAevoOw_39" sentiment="Neutral">
+      <text>The music played was easy rock / 80s, 90s / top 40 songs.</text>
+      <aspectTerms>
+         <aspectTerm term="music" polarity="Neutral" from="4" to="9"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="krhPkNxXsCEaU7OW-WJ6lA" sent_id="krhPkNxXsCEaU7OW-WJ6lA_15" sentiment="Neutral">
+      <text>I opted for the crab cake with a side of Brussels sprouts.</text>
+      <aspectTerms>
+         <aspectTerm term="crab cake" polarity="Neutral" from="16" to="25"/>
+         <aspectTerm term="Brussels sprouts" polarity="Neutral" from="41" to="57"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="5h1UDJbCn_CcRLVSTVMDkg" sent_id="5h1UDJbCn_CcRLVSTVMDkg_4" sentiment="Negative">
+      <text>The waitress was someone who I'm pretty sure owned the place and she was pretty much the most inattentive I've had in a while.</text>
+      <aspectTerms>
+         <aspectTerm term="waitress" polarity="Negative" from="4" to="12"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="xrMcRhKJiFWrs616IXOH3A" sent_id="xrMcRhKJiFWrs616IXOH3A_6" sentiment="Negative">
+      <text>It was around dinner time on Sunday and took forever to get a drink via waitress service.</text>
+      <aspectTerms>
+         <aspectTerm term="drink" polarity="Neutral" from="62" to="67"/>
+         <aspectTerm term="waitress service" polarity="Negative" from="72" to="88"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="xrMcRhKJiFWrs616IXOH3A" sent_id="xrMcRhKJiFWrs616IXOH3A_8" sentiment="Negative">
+      <text>Nachos were mediocre and the kids Mac and Cheese was served much later and was nothing but Kraft.</text>
+      <aspectTerms>
+         <aspectTerm term="Nachos" polarity="Negative" from="0" to="6"/>
+         <aspectTerm term="kids Mac and Cheese" polarity="Negative" from="29" to="48"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="4Qz6oHVC3SzAor5yPsAjUg" sent_id="4Qz6oHVC3SzAor5yPsAjUg_1" sentiment="Neutral">
+      <text>My boyfriend wanted a burger to eat.</text>
+      <aspectTerms>
+         <aspectTerm term="burger" polarity="Neutral" from="22" to="28"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="JELja6GzQpdCjdW-XJVlsA" sent_id="JELja6GzQpdCjdW-XJVlsA_5" sentiment="Negative">
+      <text>Waitress and bussboys were pretty aggressive.</text>
+      <aspectTerms>
+         <aspectTerm term="Waitress" polarity="Negative" from="0" to="8"/>
+         <aspectTerm term="bussboys" polarity="Negative" from="13" to="21"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="R50TA7EGyAuB1Rg21qh5Lg" sent_id="R50TA7EGyAuB1Rg21qh5Lg_4" sentiment="Negative">
+      <text>Ordered room service and never showed up.</text>
+      <aspectTerms>
+         <aspectTerm term="room service" polarity="Negative" from="8" to="20"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="LY_WoCJrzgicKfSywwUe0w" sent_id="LY_WoCJrzgicKfSywwUe0w_6" sentiment="Negative">
+      <text>Tips- wait time is awfully long during peak times.</text>
+      <aspectTerms>
+         <aspectTerm term="wait time" polarity="Negative" from="6" to="15"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="VKBc48PPwyWIUE1RhBT_8A" sent_id="VKBc48PPwyWIUE1RhBT_8A_9" sentiment="Negative">
+      <text>Very poor service.</text>
+      <aspectTerms>
+         <aspectTerm term="service" polarity="Negative" from="10" to="17"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="XS3xLfj-jG2__Wrx71NIjA" sent_id="XS3xLfj-jG2__Wrx71NIjA_4" sentiment="Negative">
+      <text>Parking is tough so taking the T is recommended, Arlington stop on the Green line.</text>
+      <aspectTerms>
+         <aspectTerm term="Parking" polarity="Negative" from="0" to="7"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="9ZQLvJ6VZ4ZtcadtkhLp5w" sent_id="9ZQLvJ6VZ4ZtcadtkhLp5w_4" sentiment="Negative">
+      <text>For breakfast, a little on the expensive side.</text>
+      <aspectTerms>
+         <aspectTerm term="breakfast" polarity="Negative" from="4" to="13"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Zx6GEphVUaMAsy8MFNkxjA" sent_id="Zx6GEphVUaMAsy8MFNkxjA_7" sentiment="Negative">
+      <text>Then the prices started going high up for the wine, without any improvement in quality.</text>
+      <aspectTerms>
+         <aspectTerm term="prices" polarity="Negative" from="9" to="15"/>
+         <aspectTerm term="wine" polarity="Negative" from="46" to="50"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Zx6GEphVUaMAsy8MFNkxjA" sent_id="Zx6GEphVUaMAsy8MFNkxjA_15" sentiment="Negative">
+      <text>One look at the ridiculously heavy, impossible-to-navigate, spiral-bound, laminated menu and it felt like we were at a TGI Fridays.</text>
+      <aspectTerms>
+         <aspectTerm term="menu" polarity="Negative" from="84" to="88"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Zx6GEphVUaMAsy8MFNkxjA" sent_id="Zx6GEphVUaMAsy8MFNkxjA_19" sentiment="Negative">
+      <text>The prices, by the way, were astronomical, and the small/large size thing was confusing.</text>
+      <aspectTerms>
+         <aspectTerm term="prices" polarity="Negative" from="4" to="10"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Als2mqW1M8j4JnsDVRvgyA" sent_id="Als2mqW1M8j4JnsDVRvgyA_4" sentiment="Negative">
+      <text>Margaritas are too sweet--taste like they're using Mr and Mrs T's Mix.</text>
+      <aspectTerms>
+         <aspectTerm term="Margaritas" polarity="Negative" from="0" to="10"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="HZOnF5jIsv59uJOoWBDjNg" sent_id="HZOnF5jIsv59uJOoWBDjNg_9" sentiment="Negative">
+      <text>The food is WAY too expensive for what they give you.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Negative" from="4" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="HZOnF5jIsv59uJOoWBDjNg" sent_id="HZOnF5jIsv59uJOoWBDjNg_10" sentiment="Negative">
+      <text>The main serving sizes aren't very large, and to be honest, its kind of bland.</text>
+      <aspectTerms>
+         <aspectTerm term="main serving sizes" polarity="Negative" from="4" to="22"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="HZOnF5jIsv59uJOoWBDjNg" sent_id="HZOnF5jIsv59uJOoWBDjNg_21" sentiment="Negative">
+      <text>Needless to say, my friends and i were all still hungry at the end of our meals.</text>
+      <aspectTerms>
+         <aspectTerm term="meals" polarity="Negative" from="74" to="79"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="I4CwOhiwTIyakBv-OMZ-hg" sent_id="I4CwOhiwTIyakBv-OMZ-hg_15" sentiment="Negative">
+      <text>They overcharged my wife's filling.</text>
+      <aspectTerms>
+         <aspectTerm term="filling" polarity="Negative" from="27" to="34"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="I4CwOhiwTIyakBv-OMZ-hg" sent_id="I4CwOhiwTIyakBv-OMZ-hg_21" sentiment="Negative">
+      <text>My wife's tooth is very still sensitive half a year after getting filled by Dr. Wong.</text>
+      <aspectTerms>
+         <aspectTerm term="Dr. Wong" polarity="Negative" from="76" to="84"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="IuSHhHgSjEjPfPZZJNh_Ew" sent_id="IuSHhHgSjEjPfPZZJNh_Ew_2" sentiment="Negative">
+      <text>The food lacks flavor and is just plain distasteful!</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Negative" from="4" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Dvgi4i4BBSD7hF83cB3jlw" sent_id="Dvgi4i4BBSD7hF83cB3jlw_9" sentiment="Negative">
+      <text>I would highly warn against the happy hour at this place.</text>
+      <aspectTerms>
+         <aspectTerm term="happy hour" polarity="Negative" from="32" to="42"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Dvgi4i4BBSD7hF83cB3jlw" sent_id="Dvgi4i4BBSD7hF83cB3jlw_11" sentiment="Negative">
+      <text>Also, the happy hour food isn't very good (the mac n cheese in particular is bland and boring).</text>
+      <aspectTerms>
+         <aspectTerm term="happy hour food" polarity="Negative" from="10" to="25"/>
+         <aspectTerm term="mac n cheese" polarity="Negative" from="47" to="59"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="u_U8pYRFFnFn72D5zfeEyA" sent_id="u_U8pYRFFnFn72D5zfeEyA_1" sentiment="Negative">
+      <text>Definitely not the best philly steak I've had.</text>
+      <aspectTerms>
+         <aspectTerm term="philly steak" polarity="Negative" from="24" to="36"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="u_U8pYRFFnFn72D5zfeEyA" sent_id="u_U8pYRFFnFn72D5zfeEyA_2" sentiment="Negative">
+      <text>Their sandwiches are missing quality steak meat.</text>
+      <aspectTerms>
+         <aspectTerm term="sandwiches" polarity="Negative" from="6" to="16"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="u_U8pYRFFnFn72D5zfeEyA" sent_id="u_U8pYRFFnFn72D5zfeEyA_3" sentiment="Negative">
+      <text>They've got to learn to make a great cheesesteak.</text>
+      <aspectTerms>
+         <aspectTerm term="cheesesteak" polarity="Negative" from="37" to="48"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="DuRUcXozSYirNh-fM-7B6Q" sent_id="DuRUcXozSYirNh-fM-7B6Q_4" sentiment="Negative">
+      <text>That I didn't like about this particular Walgreens was that they have poor pets food selection.</text>
+      <aspectTerms>
+         <aspectTerm term="pets food selection" polarity="Negative" from="75" to="94"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="n-_OLjnLbC5s9gMuSdURhw" sent_id="n-_OLjnLbC5s9gMuSdURhw_3" sentiment="Negative">
+      <text>Wish there were more parking spots.</text>
+      <aspectTerms>
+         <aspectTerm term="parking" polarity="Negative" from="21" to="28"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="KGr2dkT73-Fta96icffFkg" sent_id="KGr2dkT73-Fta96icffFkg_3" sentiment="Negative">
+      <text>Not worth the hour long wait.</text>
+      <aspectTerms>
+         <aspectTerm term="wait" polarity="Negative" from="24" to="28"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="hOwJRDIhdCiSiTpMM7s8zw" sent_id="hOwJRDIhdCiSiTpMM7s8zw_1" sentiment="Neutral">
+      <text>Stylists almost always do a good job but I don't know why they can't get their act together on customer service.</text>
+      <aspectTerms>
+         <aspectTerm term="Stylists" polarity="Positive" from="0" to="8"/>
+         <aspectTerm term="customer service" polarity="Negative" from="95" to="111"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="FGBtFPOf5fApkk4sc8zjng" sent_id="FGBtFPOf5fApkk4sc8zjng_5" sentiment="Negative">
+      <text>Our waitress at first was grumpy and short with us when we first ordered.</text>
+      <aspectTerms>
+         <aspectTerm term="waitress" polarity="Negative" from="4" to="12"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="WMccn5iRJmbZGLYpk8WUfg" sent_id="WMccn5iRJmbZGLYpk8WUfg_5" sentiment="Negative">
+      <text>My only complaint was the COLD fries , what a bummer !</text>
+      <aspectTerms>
+         <aspectTerm term="fries" polarity="Negative" from="31" to="36"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="bG9K7i56_i1HrnqxNu1qnw" sent_id="bG9K7i56_i1HrnqxNu1qnw_2" sentiment="Negative">
+      <text>Had to change rooms THREE TIMES!</text>
+      <aspectTerms>
+         <aspectTerm term="rooms" polarity="Negative" from="14" to="19"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="oz5eT4O-kGjr_bbpW6DN2g" sent_id="oz5eT4O-kGjr_bbpW6DN2g_9" sentiment="Negative">
+      <text>Roast pork wasn't of the style I prefer.</text>
+      <aspectTerms>
+         <aspectTerm term="Roast pork" polarity="Negative" from="0" to="10"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="wux-Ghtfkjt1YwUpmId21w" sent_id="wux-Ghtfkjt1YwUpmId21w_1" sentiment="Negative">
+      <text>Food was two cliks north of terrible.</text>
+      <aspectTerms>
+         <aspectTerm term="Food" polarity="Negative" from="0" to="4"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="PJ_5wYasbdnCwEHdyZqLbA" sent_id="PJ_5wYasbdnCwEHdyZqLbA_6" sentiment="Negative">
+      <text>The fries were utterly forgettable and the garlic fries were barely touched by us.</text>
+      <aspectTerms>
+         <aspectTerm term="fries" polarity="Negative" from="4" to="9"/>
+         <aspectTerm term="garlic fries" polarity="Negative" from="43" to="55"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="TXNZhepV8Z9Ac_tjwQoNCQ" sent_id="TXNZhepV8Z9Ac_tjwQoNCQ_18" sentiment="Negative">
+      <text>The breads were also disappointing.</text>
+      <aspectTerms>
+         <aspectTerm term="breads" polarity="Negative" from="4" to="10"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="mf5hExGJe4oUwyO4mpF7MQ" sent_id="mf5hExGJe4oUwyO4mpF7MQ_11" sentiment="Negative">
+      <text>The food was a bit disappointing.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Negative" from="4" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="-yOjkt9GDgh2OdLGdHH_Cg" sent_id="-yOjkt9GDgh2OdLGdHH_Cg_15" sentiment="Negative">
+      <text>Avoid the goat cheese and apple smoked bacon gravy.</text>
+      <aspectTerms>
+         <aspectTerm term="goat cheese" polarity="Negative" from="10" to="21"/>
+         <aspectTerm term="apple smoked bacon gravy" polarity="Negative" from="26" to="50"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="0i8LIxeZgPWMOjf4KXojtA" sent_id="0i8LIxeZgPWMOjf4KXojtA_1" sentiment="Neutral">
+      <text>wifi is nice, but the 17 yr old baristas at this dingy overrated coffee shop have confused &quot;handmade&quot; with &quot;messy.&quot;</text>
+      <aspectTerms>
+         <aspectTerm term="wifi" polarity="Positive" from="0" to="4"/>
+         <aspectTerm term="baristas" polarity="Negative" from="32" to="40"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="0i8LIxeZgPWMOjf4KXojtA" sent_id="0i8LIxeZgPWMOjf4KXojtA_2" sentiment="Negative">
+      <text>drinks are sub-par, bad top 40 on the radio.</text>
+      <aspectTerms>
+         <aspectTerm term="drinks" polarity="Negative" from="0" to="6"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="TfiwMCFnjBZXdbYFXkTm4A" sent_id="TfiwMCFnjBZXdbYFXkTm4A_2" sentiment="Negative">
+      <text>The service has been downhill for sometime now.</text>
+      <aspectTerms>
+         <aspectTerm term="service" polarity="Negative" from="4" to="11"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="TfiwMCFnjBZXdbYFXkTm4A" sent_id="TfiwMCFnjBZXdbYFXkTm4A_10" sentiment="Negative">
+      <text>Both mine and my fathers steaks were cold.</text>
+      <aspectTerms>
+         <aspectTerm term="steaks" polarity="Negative" from="25" to="31"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="2ohH0ZTDnOpwv5mKEuGjCw" sent_id="2ohH0ZTDnOpwv5mKEuGjCw_5" sentiment="Negative">
+      <text>The only negative aspect was the very light decor.</text>
+      <aspectTerms>
+         <aspectTerm term="decor" polarity="Negative" from="44" to="49"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="nRTrjlCEajT3MVsxg4gLpg" sent_id="nRTrjlCEajT3MVsxg4gLpg_3" sentiment="Negative">
+      <text>In terms of flavor though, the ramen was very bad.</text>
+      <aspectTerms>
+         <aspectTerm term="ramen" polarity="Negative" from="31" to="36"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="C4eu6_g6pRJsklTx_Qnkmw" sent_id="C4eu6_g6pRJsklTx_Qnkmw_3" sentiment="Negative">
+      <text>Had to send pizza back n it came back the same.</text>
+      <aspectTerms>
+         <aspectTerm term="pizza" polarity="Negative" from="12" to="17"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="C4eu6_g6pRJsklTx_Qnkmw" sent_id="C4eu6_g6pRJsklTx_Qnkmw_5" sentiment="Negative">
+      <text>Manager came out and listened but really didn't care.</text>
+      <aspectTerms>
+         <aspectTerm term="Manager" polarity="Negative" from="0" to="7"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="5ddz4swJewx5gsKduv_qEw" sent_id="5ddz4swJewx5gsKduv_qEw_6" sentiment="Negative">
+      <text>The dumplings didn't look appetizing and weren't finished.</text>
+      <aspectTerms>
+         <aspectTerm term="dumplings" polarity="Negative" from="4" to="13"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="LxHC0BOgyy77RmmoO1OckQ" sent_id="LxHC0BOgyy77RmmoO1OckQ_11" sentiment="Negative">
+      <text>$81 and our food was in the garbage - disappointing.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Negative" from="12" to="16"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="r4cnQuec0vzwE7A2zOtj9g" sent_id="r4cnQuec0vzwE7A2zOtj9g_6" sentiment="Negative">
+      <text>Omelette ok but potatoes cut too large.</text>
+      <aspectTerms>
+         <aspectTerm term="Omelette" polarity="Neutral" from="0" to="8"/>
+         <aspectTerm term="potatoes" polarity="Negative" from="16" to="24"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="r4cnQuec0vzwE7A2zOtj9g" sent_id="r4cnQuec0vzwE7A2zOtj9g_7" sentiment="Negative">
+      <text>Toast not warm.</text>
+      <aspectTerms>
+         <aspectTerm term="Toast" polarity="Negative" from="0" to="5"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="INzABgCq6H6VxynCTX7BKA" sent_id="INzABgCq6H6VxynCTX7BKA_8" sentiment="Negative">
+      <text>As for the decor, its really worn and dated.</text>
+      <aspectTerms>
+         <aspectTerm term="decor" polarity="Negative" from="11" to="16"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="ij7P_FG1_5z1K27vdt0G5g" sent_id="ij7P_FG1_5z1K27vdt0G5g_4" sentiment="Negative">
+      <text>The coffee was not good.</text>
+      <aspectTerms>
+         <aspectTerm term="coffee" polarity="Negative" from="4" to="10"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="ij7P_FG1_5z1K27vdt0G5g" sent_id="ij7P_FG1_5z1K27vdt0G5g_8" sentiment="Negative">
+      <text>For what we got, crepes seemed overpriced.</text>
+      <aspectTerms>
+         <aspectTerm term="crepes" polarity="Negative" from="17" to="23"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="nI4wMGNuOIW4dCzroCvp-A" sent_id="nI4wMGNuOIW4dCzroCvp-A_4" sentiment="Negative">
+      <text>The springs rolls are bad - kinda oily.</text>
+      <aspectTerms>
+         <aspectTerm term="springs rolls" polarity="Negative" from="4" to="17"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="oIpZMKrLyhaY-24MIryB3Q" sent_id="oIpZMKrLyhaY-24MIryB3Q_1" sentiment="Negative">
+      <text>Staff kinda suck and for the sub-par food the price is a bit high.</text>
+      <aspectTerms>
+         <aspectTerm term="Staff" polarity="Negative" from="0" to="5"/>
+         <aspectTerm term="food" polarity="Negative" from="37" to="41"/>
+         <aspectTerm term="price" polarity="Negative" from="46" to="51"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="YbU5nJsG60ay-ldg5GI9gA" sent_id="YbU5nJsG60ay-ldg5GI9gA_1" sentiment="Negative">
+      <text>Their food sucks!</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Negative" from="6" to="10"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="YbU5nJsG60ay-ldg5GI9gA" sent_id="YbU5nJsG60ay-ldg5GI9gA_2" sentiment="Negative">
+      <text>I have tried the sashimi, the nigiri, sushi, gyoza and fried chicken and all of them were poor quality and poor ingredients.</text>
+      <aspectTerms>
+         <aspectTerm term="sashimi" polarity="Negative" from="17" to="24"/>
+         <aspectTerm term="nigiri" polarity="Negative" from="30" to="36"/>
+         <aspectTerm term="sushi" polarity="Negative" from="38" to="43"/>
+         <aspectTerm term="gyoza" polarity="Negative" from="45" to="50"/>
+         <aspectTerm term="fried chicken" polarity="Negative" from="55" to="68"/>
+         <aspectTerm term="ingredients" polarity="Negative" from="112" to="123"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="vHsRa_5lknXrQRVrXjmw1A" sent_id="vHsRa_5lknXrQRVrXjmw1A_9" sentiment="Negative">
+      <text>Talk about shit customer service.</text>
+      <aspectTerms>
+         <aspectTerm term="customer service" polarity="Negative" from="16" to="32"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="4VvBLJ56YbhWJGiGr8LE7Q" sent_id="4VvBLJ56YbhWJGiGr8LE7Q_3" sentiment="Negative">
+      <text>After a single piece of the first pizza, the entire center of the pizza crust was completely soggy and after the second piece, the pizza was cold.</text>
+      <aspectTerms>
+         <aspectTerm term="pizza" polarity="Negative" from="34" to="39"/>
+         <aspectTerm term="pizza" polarity="Negative" from="131" to="136"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="4VvBLJ56YbhWJGiGr8LE7Q" sent_id="4VvBLJ56YbhWJGiGr8LE7Q_5" sentiment="Negative">
+      <text>And the Mushroom and Leek pizza we got was super bland.</text>
+      <aspectTerms>
+         <aspectTerm term="Mushroom and Leek pizza" polarity="Negative" from="8" to="31"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="4VvBLJ56YbhWJGiGr8LE7Q" sent_id="4VvBLJ56YbhWJGiGr8LE7Q_21" sentiment="Negative">
+      <text>But you should avoid the pizza - it is too bad.</text>
+      <aspectTerms>
+         <aspectTerm term="pizza" polarity="Negative" from="25" to="30"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="_BtdovRdZEA3FE21GWZTkw" sent_id="_BtdovRdZEA3FE21GWZTkw_3" sentiment="Negative">
+      <text>Most of them are ok, but the Slider was terrible!!</text>
+      <aspectTerms>
+         <aspectTerm term="Slider" polarity="Negative" from="29" to="35"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="_BtdovRdZEA3FE21GWZTkw" sent_id="_BtdovRdZEA3FE21GWZTkw_6" sentiment="Negative">
+      <text>The worst part is the waitress.</text>
+      <aspectTerms>
+         <aspectTerm term="waitress" polarity="Negative" from="22" to="30"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="_BtdovRdZEA3FE21GWZTkw" sent_id="_BtdovRdZEA3FE21GWZTkw_14" sentiment="Negative">
+      <text>Terrible Service !!</text>
+      <aspectTerms>
+         <aspectTerm term="Service" polarity="Negative" from="9" to="16"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Hy6Npge_G1sXqwWfmwNiyg" sent_id="Hy6Npge_G1sXqwWfmwNiyg_11" sentiment="Negative">
+      <text>Not to mention my manicure was all jacked up with the polish peeling just 3 days later.</text>
+      <aspectTerms>
+         <aspectTerm term="manicure" polarity="Negative" from="18" to="26"/>
+         <aspectTerm term="polish" polarity="Negative" from="54" to="60"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="BRfXDZjsFcUG_c3cW9N_aA" sent_id="BRfXDZjsFcUG_c3cW9N_aA_5" sentiment="Negative">
+      <text>There was a problem with the woman's food, so the server took it right back.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Negative" from="37" to="41"/>
+         <aspectTerm term="server" polarity="Neutral" from="50" to="56"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="abobjVqjaOx9tQkm_qrnLA" sent_id="abobjVqjaOx9tQkm_qrnLA_7" sentiment="Negative">
+      <text>The mozzarella sticks weren't so great, the cheesy bread sticks was okay, their pizza was cold..</text>
+      <aspectTerms>
+         <aspectTerm term="mozzarella sticks" polarity="Negative" from="4" to="21"/>
+         <aspectTerm term="cheesy bread sticks" polarity="Neutral" from="44" to="63"/>
+         <aspectTerm term="pizza" polarity="Negative" from="80" to="85"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="gDjRupWXuhaJglV7RP9bwQ" sent_id="gDjRupWXuhaJglV7RP9bwQ_3" sentiment="Negative">
+      <text>Sadly, the service has declined the last couple times I came in.</text>
+      <aspectTerms>
+         <aspectTerm term="service" polarity="Negative" from="11" to="18"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="iezQhPYwU4pm9pUUkFTmbQ" sent_id="iezQhPYwU4pm9pUUkFTmbQ_17" sentiment="Negative">
+      <text>Other: Parking can be problematic.</text>
+      <aspectTerms>
+         <aspectTerm term="Parking" polarity="Negative" from="7" to="14"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="H4_1lF5sRb5_PSDP7UjtkA" sent_id="H4_1lF5sRb5_PSDP7UjtkA_11" sentiment="Negative">
+      <text>The food provided was pretty bad.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Negative" from="4" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="WpXELDlXwVYIuj82Fs3uFA" sent_id="WpXELDlXwVYIuj82Fs3uFA_5" sentiment="Negative">
+      <text>Service is very slow and neglectful.</text>
+      <aspectTerms>
+         <aspectTerm term="Service" polarity="Negative" from="0" to="7"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="io2xSv_4AF9GNkLeymvy2Q" sent_id="io2xSv_4AF9GNkLeymvy2Q_7" sentiment="Neutral">
+      <text>Dont expect 5 star service but the food was excellent.</text>
+      <aspectTerms>
+         <aspectTerm term="service" polarity="Negative" from="19" to="26"/>
+         <aspectTerm term="food" polarity="Positive" from="35" to="39"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="4B3r35BspHekAVCZQ-5lqw" sent_id="4B3r35BspHekAVCZQ-5lqw_8" sentiment="Negative">
+      <text>Skip the acai orange juice, not that great.</text>
+      <aspectTerms>
+         <aspectTerm term="acai orange juice" polarity="Negative" from="9" to="26"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="u1gUNbd7QLa_g-Zw-faLCw" sent_id="u1gUNbd7QLa_g-Zw-faLCw_13" sentiment="Negative">
+      <text>Not as good a selection of products.</text>
+      <aspectTerms>
+         <aspectTerm term="selection of products" polarity="Negative" from="14" to="35"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="aipoRF-bcAF_EJh6ZMwH6A" sent_id="aipoRF-bcAF_EJh6ZMwH6A_3" sentiment="Negative">
+      <text>We were ignored at our table, the entrees &amp; pizza were gross.</text>
+      <aspectTerms>
+         <aspectTerm term="table" polarity="Neutral" from="23" to="28"/>
+         <aspectTerm term="entrees" polarity="Negative" from="34" to="41"/>
+         <aspectTerm term="pizza" polarity="Negative" from="44" to="49"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="X5dV8u69J4K0RW6o8yPmPw" sent_id="X5dV8u69J4K0RW6o8yPmPw_4" sentiment="Negative">
+      <text>Salads aren't very good.</text>
+      <aspectTerms>
+         <aspectTerm term="Salads" polarity="Negative" from="0" to="6"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="K9_7RVPeBZWeDy_32t2-1w" sent_id="K9_7RVPeBZWeDy_32t2-1w_1" sentiment="Negative">
+      <text>Food is below average.</text>
+      <aspectTerms>
+         <aspectTerm term="Food" polarity="Negative" from="0" to="4"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Q83XWWyQd5rPx-KQr1KBVg" sent_id="Q83XWWyQd5rPx-KQr1KBVg_17" sentiment="Negative">
+      <text>Calamari - I have to shake my head at this both orders were over cooked and inedible.</text>
+      <aspectTerms>
+         <aspectTerm term="Calamari" polarity="Negative" from="0" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="SdlNRgasxxIhq0xnC9oXMg" sent_id="SdlNRgasxxIhq0xnC9oXMg_2" sentiment="Negative">
+      <text>The last few times, we were disappointed in the food.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Negative" from="48" to="52"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="SdlNRgasxxIhq0xnC9oXMg" sent_id="SdlNRgasxxIhq0xnC9oXMg_6" sentiment="Negative">
+      <text>The chips were stale though.</text>
+      <aspectTerms>
+         <aspectTerm term="chips" polarity="Negative" from="4" to="9"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="SdlNRgasxxIhq0xnC9oXMg" sent_id="SdlNRgasxxIhq0xnC9oXMg_7" sentiment="Negative">
+      <text>I ordered a chili relleno, it was awful.</text>
+      <aspectTerms>
+         <aspectTerm term="chili relleno" polarity="Negative" from="12" to="25"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="SdlNRgasxxIhq0xnC9oXMg" sent_id="SdlNRgasxxIhq0xnC9oXMg_9" sentiment="Negative">
+      <text>The calamari appetizer was cold and soggy.</text>
+      <aspectTerms>
+         <aspectTerm term="calamari appetizer" polarity="Negative" from="4" to="22"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="SdlNRgasxxIhq0xnC9oXMg" sent_id="SdlNRgasxxIhq0xnC9oXMg_10" sentiment="Negative">
+      <text>The fish tacos were bland...no one enjoyed their food selection.</text>
+      <aspectTerms>
+         <aspectTerm term="fish tacos" polarity="Negative" from="4" to="14"/>
+         <aspectTerm term="food selection" polarity="Negative" from="49" to="63"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="7zFo0c8pJk0zHiKq8LR3Sg" sent_id="7zFo0c8pJk0zHiKq8LR3Sg_8" sentiment="Negative">
+      <text>But their waffle in my opinion was bad.</text>
+      <aspectTerms>
+         <aspectTerm term="waffle" polarity="Negative" from="10" to="16"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Q_ZHKrH-7bn4jlaqFcTYbA" sent_id="Q_ZHKrH-7bn4jlaqFcTYbA_2" sentiment="Negative">
+      <text>but i find the environment dirty, dingy and sketchy.</text>
+      <aspectTerms>
+         <aspectTerm term="environment" polarity="Negative" from="15" to="26"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="ij7P_FG1_5z1K27vdt0G5g" sent_id="ij7P_FG1_5z1K27vdt0G5g_3" sentiment="Negative">
+      <text>Crepes were a bit tough and were cold when we got them.</text>
+      <aspectTerms>
+         <aspectTerm term="Crepes" polarity="Negative" from="0" to="6"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="YYM7u6GdxG-OOXdPWYImLA" sent_id="YYM7u6GdxG-OOXdPWYImLA_1" sentiment="Negative">
+      <text>Mediocre service and pizza was a bit too salty.</text>
+      <aspectTerms>
+         <aspectTerm term="service" polarity="Negative" from="9" to="16"/>
+         <aspectTerm term="pizza" polarity="Negative" from="21" to="26"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="y36TpR0knDX9CxsGZS26tQ" sent_id="y36TpR0knDX9CxsGZS26tQ_5" sentiment="Neutral">
+      <text>The staff is usually way too busy to do so.</text>
+      <aspectTerms>
+         <aspectTerm term="staff" polarity="Neutral" from="4" to="9"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Q8ce4oGn5dZuxrLHweKQbA" sent_id="Q8ce4oGn5dZuxrLHweKQbA_4" sentiment="Negative">
+      <text>All food were bland, really bland and not worth the $$$ we spent.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Negative" from="4" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Q8ce4oGn5dZuxrLHweKQbA" sent_id="Q8ce4oGn5dZuxrLHweKQbA_6" sentiment="Negative">
+      <text>However, the wait for our appetizers was far too long.</text>
+      <aspectTerms>
+         <aspectTerm term="wait" polarity="Negative" from="13" to="17"/>
+         <aspectTerm term="appetizers" polarity="Neutral" from="26" to="36"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="QJ_-y4f1-AaiE8B5XUpOeg" sent_id="QJ_-y4f1-AaiE8B5XUpOeg_3" sentiment="Negative">
+      <text>The ambiance isn't so good, though, with some uncomfortable chairs and desks to sit at and some questionable music choices.</text>
+      <aspectTerms>
+         <aspectTerm term="ambiance" polarity="Negative" from="4" to="12"/>
+         <aspectTerm term="chairs" polarity="Negative" from="60" to="66"/>
+         <aspectTerm term="desks" polarity="Negative" from="71" to="76"/>
+         <aspectTerm term="music choices" polarity="Negative" from="109" to="122"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="QJ_-y4f1-AaiE8B5XUpOeg" sent_id="QJ_-y4f1-AaiE8B5XUpOeg_4" sentiment="Negative">
+      <text>Very limited food selection as well.</text>
+      <aspectTerms>
+         <aspectTerm term="food selection" polarity="Negative" from="13" to="27"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Oyk5mwZqeSLJCI3xtvykoA" sent_id="Oyk5mwZqeSLJCI3xtvykoA_1" sentiment="Negative">
+      <text>Not worth the price.</text>
+      <aspectTerms>
+         <aspectTerm term="price" polarity="Negative" from="14" to="19"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Oyk5mwZqeSLJCI3xtvykoA" sent_id="Oyk5mwZqeSLJCI3xtvykoA_6" sentiment="Negative">
+      <text>The restrooms had no paper to dry your hands had to ask for napkins.</text>
+      <aspectTerms>
+         <aspectTerm term="restrooms" polarity="Negative" from="4" to="13"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="M2Qhm4WFLreRr4w6wjx5hA" sent_id="M2Qhm4WFLreRr4w6wjx5hA_4" sentiment="Negative">
+      <text>The indoor seating is very limited.</text>
+      <aspectTerms>
+         <aspectTerm term="indoor seating" polarity="Negative" from="4" to="18"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="M2Qhm4WFLreRr4w6wjx5hA" sent_id="M2Qhm4WFLreRr4w6wjx5hA_5" sentiment="Negative">
+      <text>The bathroom was not working and was very small.</text>
+      <aspectTerms>
+         <aspectTerm term="bathroom" polarity="Negative" from="4" to="12"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="MFwutt0sV8HIXW7LJ-3ecA" sent_id="MFwutt0sV8HIXW7LJ-3ecA_4" sentiment="Neutral">
+      <text>Customer service is everything and It made me leave the restaurant.</text>
+      <aspectTerms>
+         <aspectTerm term="Customer service" polarity="Negative" from="0" to="16"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="vI2bA5lwKN3-gk5JLW8rog" sent_id="vI2bA5lwKN3-gk5JLW8rog_12" sentiment="Negative">
+      <text>I was disappointing at the salt level in the egg - way too salty and it overpowered your mouth and made it dry.</text>
+      <aspectTerms>
+         <aspectTerm term="egg" polarity="Negative" from="45" to="48"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="d2KcUBUp0fSWP2hFKPhr0Q" sent_id="d2KcUBUp0fSWP2hFKPhr0Q_2" sentiment="Negative">
+      <text>Unfortunately the customer service is what is pulling my rating lower.</text>
+      <aspectTerms>
+         <aspectTerm term="customer service" polarity="Negative" from="18" to="34"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="OJh_RALow6FemCkHGlumFg" sent_id="OJh_RALow6FemCkHGlumFg_3" sentiment="Negative">
+      <text>We walked in and the receptionist told us it would be a long wait.</text>
+      <aspectTerms>
+         <aspectTerm term="receptionist" polarity="Neutral" from="21" to="33"/>
+         <aspectTerm term="wait" polarity="Negative" from="61" to="65"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="OJh_RALow6FemCkHGlumFg" sent_id="OJh_RALow6FemCkHGlumFg_11" sentiment="Negative">
+      <text>They kept on offering me the mutton, which I have serious allergy with.</text>
+      <aspectTerms>
+         <aspectTerm term="mutton" polarity="Negative" from="29" to="35"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="OJh_RALow6FemCkHGlumFg" sent_id="OJh_RALow6FemCkHGlumFg_21" sentiment="Negative">
+      <text>I told him the service was poor and too slow.</text>
+      <aspectTerms>
+         <aspectTerm term="service" polarity="Negative" from="15" to="22"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="ShrkvbuMziNDS7a1Gh8Www" sent_id="ShrkvbuMziNDS7a1Gh8Www_4" sentiment="Negative">
+      <text>Burger was cooked longer than i asked for and was very small.</text>
+      <aspectTerms>
+         <aspectTerm term="Burger" polarity="Negative" from="0" to="6"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Cif9GKCHMAe8HNGEEKbt6g" sent_id="Cif9GKCHMAe8HNGEEKbt6g_20" sentiment="Negative">
+      <text>The worst part of this experience was the ineptitude of management and ultimately, the owner.</text>
+      <aspectTerms>
+         <aspectTerm term="management" polarity="Negative" from="56" to="66"/>
+         <aspectTerm term="owner" polarity="Negative" from="87" to="92"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="rVkX26sulLZixLa22_WwAg" sent_id="rVkX26sulLZixLa22_WwAg_3" sentiment="Negative">
+      <text>Come with time as service is a bit slow.</text>
+      <aspectTerms>
+         <aspectTerm term="service" polarity="Negative" from="18" to="25"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="XOV_gMZE9VwxNNcWDtBySg" sent_id="XOV_gMZE9VwxNNcWDtBySg_3" sentiment="Negative">
+      <text>Prices are high for a substandard experience.</text>
+      <aspectTerms>
+         <aspectTerm term="Prices" polarity="Negative" from="0" to="6"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="E_wTFr22SZiUslE1GU2f7w" sent_id="E_wTFr22SZiUslE1GU2f7w_18" sentiment="Negative">
+      <text>Our pizza was too juicy &amp; Wet, Falling apart when you picked it up.</text>
+      <aspectTerms>
+         <aspectTerm term="pizza" polarity="Negative" from="4" to="9"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="CTSy4vQYrSuhfdes9IDjgQ" sent_id="CTSy4vQYrSuhfdes9IDjgQ_1" sentiment="Negative">
+      <text>Horribe horrible customer service - insulting and rude.</text>
+      <aspectTerms>
+         <aspectTerm term="customer service" polarity="Negative" from="17" to="33"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="1Qgyx1Ao6OrVGvLgPEOlug" sent_id="1Qgyx1Ao6OrVGvLgPEOlug_2" sentiment="Negative">
+      <text>I really was not very pleased with the sides.</text>
+      <aspectTerms>
+         <aspectTerm term="sides" polarity="Negative" from="39" to="44"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="E5OW_wbjLmYS8u_s4b9_lA" sent_id="E5OW_wbjLmYS8u_s4b9_lA_5" sentiment="Negative">
+      <text>Sometimes the rice is dry like sand.</text>
+      <aspectTerms>
+         <aspectTerm term="rice" polarity="Negative" from="14" to="18"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="7NYl4pBWIQ8x3IialjHJaw" sent_id="7NYl4pBWIQ8x3IialjHJaw_11" sentiment="Negative">
+      <text>For the price I paid it is not worth it.</text>
+      <aspectTerms>
+         <aspectTerm term="price" polarity="Negative" from="8" to="13"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="5vEWph1aLdtQKjoC4_KLhQ" sent_id="5vEWph1aLdtQKjoC4_KLhQ_3" sentiment="Negative">
+      <text>Long wait and order came out wrong and had to be sent back.</text>
+      <aspectTerms>
+         <aspectTerm term="wait" polarity="Negative" from="5" to="9"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="zaLaBnoiK6m4uKgfXrT6Ig" sent_id="zaLaBnoiK6m4uKgfXrT6Ig_5" sentiment="Negative">
+      <text>Next, the food of course was cold.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Negative" from="10" to="14"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="OAyQ4Z1asLbPUIOMea0OSw" sent_id="OAyQ4Z1asLbPUIOMea0OSw_10" sentiment="Negative">
+      <text>The clam chowder was disappointingly below average for a seafood restaurant.</text>
+      <aspectTerms>
+         <aspectTerm term="clam chowder" polarity="Negative" from="4" to="16"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Lz3_dpr5CBbAG4EUKUptdQ" sent_id="Lz3_dpr5CBbAG4EUKUptdQ_1" sentiment="Negative">
+      <text>Pizza was kinda bland.</text>
+      <aspectTerms>
+         <aspectTerm term="Pizza" polarity="Negative" from="0" to="5"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Az6ZMvzYLIkIxmgkb70UTA" sent_id="Az6ZMvzYLIkIxmgkb70UTA_5" sentiment="Neutral">
+      <text>The service is terrible; the pho is great.</text>
+      <aspectTerms>
+         <aspectTerm term="service" polarity="Negative" from="4" to="11"/>
+         <aspectTerm term="pho" polarity="Positive" from="29" to="32"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="AFwUX8hwDRl4iIX3EH2zNA" sent_id="AFwUX8hwDRl4iIX3EH2zNA_4" sentiment="Negative">
+      <text>At times the burgers have been a bit overcooked.</text>
+      <aspectTerms>
+         <aspectTerm term="burgers" polarity="Negative" from="13" to="20"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="INzABgCq6H6VxynCTX7BKA" sent_id="INzABgCq6H6VxynCTX7BKA_3" sentiment="Negative">
+      <text>But the decor and the adjacent is really lame.</text>
+      <aspectTerms>
+         <aspectTerm term="decor" polarity="Negative" from="8" to="13"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="ltrB5G_kv2o2ghKcVvlvAg" sent_id="ltrB5G_kv2o2ghKcVvlvAg_4" sentiment="Positive">
+      <text>Plus the staff is super nice.</text>
+      <aspectTerms>
+         <aspectTerm term="staff" polarity="Positive" from="9" to="14"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="J7xq2x8L-AF2m4CONOfyTQ" sent_id="J7xq2x8L-AF2m4CONOfyTQ_2" sentiment="Positive">
+      <text>The atmosphere was kinda relaxing.</text>
+      <aspectTerms>
+         <aspectTerm term="atmosphere" polarity="Positive" from="4" to="14"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="axmR0eaTTDs6K9zgwYg9mA" sent_id="axmR0eaTTDs6K9zgwYg9mA_4" sentiment="Positive">
+      <text>I also liked the tiramisu because of the cute presentation.</text>
+      <aspectTerms>
+         <aspectTerm term="tiramisu" polarity="Positive" from="17" to="25"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="axmR0eaTTDs6K9zgwYg9mA" sent_id="axmR0eaTTDs6K9zgwYg9mA_6" sentiment="Positive">
+      <text>The passion fruit cake also looked cute.</text>
+      <aspectTerms>
+         <aspectTerm term="passion fruit cake" polarity="Positive" from="4" to="22"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Du4qJ5JXJ5rBAkRaxxIPsQ" sent_id="Du4qJ5JXJ5rBAkRaxxIPsQ_1" sentiment="Positive">
+      <text>Just impeccable, and easily one of the best meals I've ever had.</text>
+      <aspectTerms>
+         <aspectTerm term="meals" polarity="Positive" from="44" to="49"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="R50TA7EGyAuB1Rg21qh5Lg" sent_id="R50TA7EGyAuB1Rg21qh5Lg_2" sentiment="Positive">
+      <text>Good: Great location with easy check in and great diamond breakfast.</text>
+      <aspectTerms>
+         <aspectTerm term="location" polarity="Positive" from="12" to="20"/>
+         <aspectTerm term="check in" polarity="Positive" from="31" to="39"/>
+         <aspectTerm term="diamond breakfast" polarity="Positive" from="50" to="67"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="k-RvaJcMuplbRWTOr38xtw" sent_id="k-RvaJcMuplbRWTOr38xtw_2" sentiment="Positive">
+      <text>The service staff were really nice and attentive.</text>
+      <aspectTerms>
+         <aspectTerm term="service staff" polarity="Positive" from="4" to="17"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="k-RvaJcMuplbRWTOr38xtw" sent_id="k-RvaJcMuplbRWTOr38xtw_3" sentiment="Positive">
+      <text>The ambiance was perfect.</text>
+      <aspectTerms>
+         <aspectTerm term="ambiance" polarity="Positive" from="4" to="12"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="k-RvaJcMuplbRWTOr38xtw" sent_id="k-RvaJcMuplbRWTOr38xtw_4" sentiment="Positive">
+      <text>The food was delicious and tasted very flavorful.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Positive" from="4" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="z-nD1cBZZl0Ib7KYS2XxOw" sent_id="z-nD1cBZZl0Ib7KYS2XxOw_1" sentiment="Positive">
+      <text>Friendly service, great atmosphere and nice decor, and delicious food!</text>
+      <aspectTerms>
+         <aspectTerm term="service" polarity="Positive" from="9" to="16"/>
+         <aspectTerm term="atmosphere" polarity="Positive" from="24" to="34"/>
+         <aspectTerm term="decor" polarity="Positive" from="44" to="49"/>
+         <aspectTerm term="food" polarity="Positive" from="65" to="69"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="z-nD1cBZZl0Ib7KYS2XxOw" sent_id="z-nD1cBZZl0Ib7KYS2XxOw_3" sentiment="Positive">
+      <text>I got the jackfruit dessert, which was fun and interesting.</text>
+      <aspectTerms>
+         <aspectTerm term="jackfruit dessert" polarity="Positive" from="10" to="27"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="F6Rbk-R9HHivrByKV5KG2g" sent_id="F6Rbk-R9HHivrByKV5KG2g_3" sentiment="Positive">
+      <text>I also love the new trainer and the expanding schedule!</text>
+      <aspectTerms>
+         <aspectTerm term="trainer" polarity="Positive" from="20" to="27"/>
+         <aspectTerm term="schedule" polarity="Positive" from="46" to="54"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="7LQ8iM7KDwfi2XhC-0qpLQ" sent_id="7LQ8iM7KDwfi2XhC-0qpLQ_1" sentiment="Positive">
+      <text>The Ambiance is beautiful.</text>
+      <aspectTerms>
+         <aspectTerm term="Ambiance" polarity="Positive" from="4" to="12"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="7LQ8iM7KDwfi2XhC-0qpLQ" sent_id="7LQ8iM7KDwfi2XhC-0qpLQ_2" sentiment="Positive">
+      <text>The staff is very friendly.</text>
+      <aspectTerms>
+         <aspectTerm term="staff" polarity="Positive" from="4" to="9"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="7LQ8iM7KDwfi2XhC-0qpLQ" sent_id="7LQ8iM7KDwfi2XhC-0qpLQ_3" sentiment="Positive">
+      <text>The Cauliflower Taco is really good.</text>
+      <aspectTerms>
+         <aspectTerm term="Cauliflower Taco" polarity="Positive" from="4" to="20"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Vav9zIuArD_sJaSV3roz2A" sent_id="Vav9zIuArD_sJaSV3roz2A_5" sentiment="Positive">
+      <text>The beef rossito is so delicious.</text>
+      <aspectTerms>
+         <aspectTerm term="beef rossito" polarity="Positive" from="4" to="16"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Vav9zIuArD_sJaSV3roz2A" sent_id="Vav9zIuArD_sJaSV3roz2A_6" sentiment="Positive">
+      <text>The pork chop is thick and juicy.</text>
+      <aspectTerms>
+         <aspectTerm term="pork chop" polarity="Positive" from="4" to="13"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Vav9zIuArD_sJaSV3roz2A" sent_id="Vav9zIuArD_sJaSV3roz2A_7" sentiment="Positive">
+      <text>The pork belly tostadas are excellent.</text>
+      <aspectTerms>
+         <aspectTerm term="pork belly tostadas" polarity="Positive" from="4" to="23"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Vav9zIuArD_sJaSV3roz2A" sent_id="Vav9zIuArD_sJaSV3roz2A_8" sentiment="Positive">
+      <text>Their flatbreads are delicious.</text>
+      <aspectTerms>
+         <aspectTerm term="flatbreads" polarity="Positive" from="6" to="16"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Vav9zIuArD_sJaSV3roz2A" sent_id="Vav9zIuArD_sJaSV3roz2A_10" sentiment="Positive">
+      <text>Their pretzel bread is excellent as well.</text>
+      <aspectTerms>
+         <aspectTerm term="pretzel bread" polarity="Positive" from="6" to="19"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Vav9zIuArD_sJaSV3roz2A" sent_id="Vav9zIuArD_sJaSV3roz2A_11" sentiment="Positive">
+      <text>Customer service is on point.</text>
+      <aspectTerms>
+         <aspectTerm term="Customer service" polarity="Positive" from="0" to="16"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="cs9mg5uEWJryP9L1c05fkQ" sent_id="cs9mg5uEWJryP9L1c05fkQ_1" sentiment="Positive">
+      <text>Great service from the waiters/waitresses.</text>
+      <aspectTerms>
+         <aspectTerm term="service" polarity="Positive" from="6" to="13"/>
+         <aspectTerm term="waiters/waitresses" polarity="Positive" from="23" to="41"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="z0ATM1zBcT-5wEHh9e6Odw" sent_id="z0ATM1zBcT-5wEHh9e6Odw_6" sentiment="Positive">
+      <text>Also, my dental hygienist was very nice, quick, and efficient.</text>
+      <aspectTerms>
+         <aspectTerm term="dental hygienist" polarity="Positive" from="9" to="25"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="z0ATM1zBcT-5wEHh9e6Odw" sent_id="z0ATM1zBcT-5wEHh9e6Odw_8" sentiment="Positive">
+      <text>Thanks for your great service!</text>
+      <aspectTerms>
+         <aspectTerm term="service" polarity="Positive" from="22" to="29"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="vL1JYw4UW7dCLjY5Dz4nvw" sent_id="vL1JYw4UW7dCLjY5Dz4nvw_3" sentiment="Positive">
+      <text>The decor of the restaurant is very clean and simple.</text>
+      <aspectTerms>
+         <aspectTerm term="decor" polarity="Positive" from="4" to="9"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="vL1JYw4UW7dCLjY5Dz4nvw" sent_id="vL1JYw4UW7dCLjY5Dz4nvw_4" sentiment="Positive">
+      <text>It's a nice environment to eat in.</text>
+      <aspectTerms>
+         <aspectTerm term="environment" polarity="Positive" from="12" to="23"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="vL1JYw4UW7dCLjY5Dz4nvw" sent_id="vL1JYw4UW7dCLjY5Dz4nvw_8" sentiment="Positive">
+      <text>The noodles they use are all fresh and not prepackaged.</text>
+      <aspectTerms>
+         <aspectTerm term="noodles" polarity="Positive" from="4" to="11"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="vL1JYw4UW7dCLjY5Dz4nvw" sent_id="vL1JYw4UW7dCLjY5Dz4nvw_13" sentiment="Positive">
+      <text>I was so satisfied with the food and the service!</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Positive" from="28" to="32"/>
+         <aspectTerm term="service" polarity="Positive" from="41" to="48"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Als2mqW1M8j4JnsDVRvgyA" sent_id="Als2mqW1M8j4JnsDVRvgyA_5" sentiment="Positive">
+      <text>Decent atmosphere, great menu, and the staff are very sweet and attentive.</text>
+      <aspectTerms>
+         <aspectTerm term="atmosphere" polarity="Positive" from="7" to="17"/>
+         <aspectTerm term="menu" polarity="Positive" from="25" to="29"/>
+         <aspectTerm term="staff" polarity="Positive" from="39" to="44"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="5JLEnNEE3TFTofiZR-XR-g" sent_id="5JLEnNEE3TFTofiZR-XR-g_4" sentiment="Positive">
+      <text>My husband loves the Lemongrass Tofu, and I love the Tofu Curry.</text>
+      <aspectTerms>
+         <aspectTerm term="Lemongrass Tofu" polarity="Positive" from="21" to="36"/>
+         <aspectTerm term="Tofu Curry" polarity="Positive" from="53" to="63"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="5JLEnNEE3TFTofiZR-XR-g" sent_id="5JLEnNEE3TFTofiZR-XR-g_7" sentiment="Positive">
+      <text>The soup is also really great, but really, the curry is to die for!</text>
+      <aspectTerms>
+         <aspectTerm term="soup" polarity="Positive" from="4" to="8"/>
+         <aspectTerm term="curry" polarity="Positive" from="47" to="52"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="6m0jRBbK2Z-enx5GkqdA1A" sent_id="6m0jRBbK2Z-enx5GkqdA1A_5" sentiment="Positive">
+      <text>The room was much larger than moderate and value resorts.</text>
+      <aspectTerms>
+         <aspectTerm term="room" polarity="Positive" from="4" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="6m0jRBbK2Z-enx5GkqdA1A" sent_id="6m0jRBbK2Z-enx5GkqdA1A_11" sentiment="Positive">
+      <text>Housekeeping staff were fantastic.</text>
+      <aspectTerms>
+         <aspectTerm term="Housekeeping staff" polarity="Positive" from="0" to="18"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="6m0jRBbK2Z-enx5GkqdA1A" sent_id="6m0jRBbK2Z-enx5GkqdA1A_12" sentiment="Positive">
+      <text>Toiletries were very nice.</text>
+      <aspectTerms>
+         <aspectTerm term="Toiletries were" polarity="Positive" from="0" to="15"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="6m0jRBbK2Z-enx5GkqdA1A" sent_id="6m0jRBbK2Z-enx5GkqdA1A_39" sentiment="Positive">
+      <text>Food and staff were fabulous.</text>
+      <aspectTerms>
+         <aspectTerm term="Food" polarity="Positive" from="0" to="4"/>
+         <aspectTerm term="staff" polarity="Positive" from="9" to="14"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="bZIuhlZ-PEnTBHi6CNECOQ" sent_id="bZIuhlZ-PEnTBHi6CNECOQ_1" sentiment="Positive">
+      <text>Dr. Ziad Eskandar and his staff are great!</text>
+      <aspectTerms>
+         <aspectTerm term="Dr. Ziad Eskandar" polarity="Positive" from="0" to="17"/>
+         <aspectTerm term="staff" polarity="Positive" from="26" to="31"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="bZIuhlZ-PEnTBHi6CNECOQ" sent_id="bZIuhlZ-PEnTBHi6CNECOQ_2" sentiment="Positive">
+      <text>Dr. Eskandar is very professional, trustworthy, gentle and very caring.</text>
+      <aspectTerms>
+         <aspectTerm term="Dr. Eskandar" polarity="Positive" from="0" to="12"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Dvgi4i4BBSD7hF83cB3jlw" sent_id="Dvgi4i4BBSD7hF83cB3jlw_8" sentiment="Positive">
+      <text>I also had the fajita which was also delicious.</text>
+      <aspectTerms>
+         <aspectTerm term="fajita" polarity="Positive" from="15" to="21"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Dvgi4i4BBSD7hF83cB3jlw" sent_id="Dvgi4i4BBSD7hF83cB3jlw_13" sentiment="Positive">
+      <text>On the other hand, happy hour cocktails are $5, and that is a good deal.</text>
+      <aspectTerms>
+         <aspectTerm term="happy hour cocktails" polarity="Positive" from="19" to="39"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="TiVoU8_WyTc6MpD3Bq--Hg" sent_id="TiVoU8_WyTc6MpD3Bq--Hg_5" sentiment="Positive">
+      <text>Ther burger is very flavorful and definitely one of the better ones.</text>
+      <aspectTerms>
+         <aspectTerm term="burger" polarity="Positive" from="5" to="11"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="x-Zur3aA_wCWP2OIP0ifgA" sent_id="x-Zur3aA_wCWP2OIP0ifgA_2" sentiment="Positive">
+      <text>The Greek salad is fresh and very tasty.</text>
+      <aspectTerms>
+         <aspectTerm term="Greek salad" polarity="Positive" from="4" to="15"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="DuRUcXozSYirNh-fM-7B6Q" sent_id="DuRUcXozSYirNh-fM-7B6Q_3" sentiment="Positive">
+      <text>There is plenty of parking.</text>
+      <aspectTerms>
+         <aspectTerm term="parking" polarity="Positive" from="19" to="26"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="J59_2UYDABhV3s0VUQ-Q0g" sent_id="J59_2UYDABhV3s0VUQ-Q0g_4" sentiment="Positive">
+      <text>I enjoyed the quaint ambience and the delicious food.</text>
+      <aspectTerms>
+         <aspectTerm term="ambience" polarity="Positive" from="21" to="29"/>
+         <aspectTerm term="food" polarity="Positive" from="48" to="52"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Z3x0tfwm4nCeh6V_am9oAw" sent_id="Z3x0tfwm4nCeh6V_am9oAw_5" sentiment="Positive">
+      <text>Tiramisu was awesome!!</text>
+      <aspectTerms>
+         <aspectTerm term="Tiramisu" polarity="Positive" from="0" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Z3x0tfwm4nCeh6V_am9oAw" sent_id="Z3x0tfwm4nCeh6V_am9oAw_10" sentiment="Positive">
+      <text>Chocolate caramel and coffee are delicious as well.</text>
+      <aspectTerms>
+         <aspectTerm term="Chocolate caramel" polarity="Positive" from="0" to="17"/>
+         <aspectTerm term="coffee" polarity="Positive" from="22" to="28"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="d-GeAVysWGd0F7XM60oinw" sent_id="d-GeAVysWGd0F7XM60oinw_1" sentiment="Positive">
+      <text>I've enjoyed their lunch buffet several times.</text>
+      <aspectTerms>
+         <aspectTerm term="lunch buffet" polarity="Positive" from="19" to="31"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="d-GeAVysWGd0F7XM60oinw" sent_id="d-GeAVysWGd0F7XM60oinw_4" sentiment="Positive">
+      <text>For the under $10 lunch buffet, you fill up and get to enjoy the wonderful service.</text>
+      <aspectTerms>
+         <aspectTerm term="lunch buffet" polarity="Positive" from="18" to="30"/>
+         <aspectTerm term="service" polarity="Positive" from="75" to="82"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="_B8A-w_VBrIes5hWqZCaNQ" sent_id="_B8A-w_VBrIes5hWqZCaNQ_5" sentiment="Positive">
+      <text>The green beans were excellent.</text>
+      <aspectTerms>
+         <aspectTerm term="green beans" polarity="Positive" from="4" to="15"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="n-_OLjnLbC5s9gMuSdURhw" sent_id="n-_OLjnLbC5s9gMuSdURhw_2" sentiment="Positive">
+      <text>Great atmosphere.</text>
+      <aspectTerms>
+         <aspectTerm term="atmosphere" polarity="Positive" from="6" to="16"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="CHTgfPVfWKV52i_NuEwIMw" sent_id="CHTgfPVfWKV52i_NuEwIMw_2" sentiment="Positive">
+      <text>The filet was phenomenal, lobster tail well above average and the remainder of the dinner very good.</text>
+      <aspectTerms>
+         <aspectTerm term="filet" polarity="Positive" from="4" to="9"/>
+         <aspectTerm term="lobster tail" polarity="Positive" from="26" to="38"/>
+         <aspectTerm term="dinner" polarity="Positive" from="83" to="89"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="CHTgfPVfWKV52i_NuEwIMw" sent_id="CHTgfPVfWKV52i_NuEwIMw_3" sentiment="Positive">
+      <text>Overall experience was very positive with great service, great drinks, great steak and an overall great experience.</text>
+      <aspectTerms>
+         <aspectTerm term="service" polarity="Positive" from="48" to="55"/>
+         <aspectTerm term="drinks" polarity="Positive" from="63" to="69"/>
+         <aspectTerm term="steak" polarity="Positive" from="77" to="82"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="AINXVhMVGkTdJsJ_vUJucg" sent_id="AINXVhMVGkTdJsJ_vUJucg_13" sentiment="Positive">
+      <text>I loved the atmosphere, and the cashier helped me to order which I appreciated.</text>
+      <aspectTerms>
+         <aspectTerm term="atmosphere" polarity="Positive" from="12" to="22"/>
+         <aspectTerm term="cashier" polarity="Positive" from="32" to="39"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="PHgcRhAhze5gBFZE91BLIA" sent_id="PHgcRhAhze5gBFZE91BLIA_3" sentiment="Positive">
+      <text>The food here was amazing, a definite must try if you're in the area.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Positive" from="4" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Sb7buDF8zI7_MTlgp2EzGg" sent_id="Sb7buDF8zI7_MTlgp2EzGg_4" sentiment="Positive">
+      <text>The management and staff here are amazing, simply amazing.</text>
+      <aspectTerms>
+         <aspectTerm term="management" polarity="Positive" from="4" to="14"/>
+         <aspectTerm term="staff" polarity="Positive" from="19" to="24"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="4gScXHqK5Kt-YI9e5ELcJA" sent_id="4gScXHqK5Kt-YI9e5ELcJA_2" sentiment="Positive">
+      <text>Cauliflower was incredible as well as calamari.</text>
+      <aspectTerms>
+         <aspectTerm term="Cauliflower" polarity="Positive" from="0" to="11"/>
+         <aspectTerm term="calamari" polarity="Positive" from="38" to="46"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Ko46zUX1JLmeziJ5AA570A" sent_id="Ko46zUX1JLmeziJ5AA570A_1" sentiment="Positive">
+      <text>Very good service!</text>
+      <aspectTerms>
+         <aspectTerm term="service" polarity="Positive" from="10" to="17"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="FGBtFPOf5fApkk4sc8zjng" sent_id="FGBtFPOf5fApkk4sc8zjng_1" sentiment="Positive">
+      <text>The food here is great!</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Positive" from="4" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="FGBtFPOf5fApkk4sc8zjng" sent_id="FGBtFPOf5fApkk4sc8zjng_2" sentiment="Neutral">
+      <text>The service good but the wait time is incredibly slow!</text>
+      <aspectTerms>
+         <aspectTerm term="service" polarity="Positive" from="4" to="11"/>
+         <aspectTerm term="wait time" polarity="Negative" from="25" to="34"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="FGBtFPOf5fApkk4sc8zjng" sent_id="FGBtFPOf5fApkk4sc8zjng_7" sentiment="Positive">
+      <text>Food was GREAT!</text>
+      <aspectTerms>
+         <aspectTerm term="Food" polarity="Positive" from="0" to="4"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="FGBtFPOf5fApkk4sc8zjng" sent_id="FGBtFPOf5fApkk4sc8zjng_12" sentiment="Neutral">
+      <text>Over all, food was great service is okay, wait time is extremely slow.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Positive" from="10" to="14"/>
+         <aspectTerm term="service" polarity="Neutral" from="25" to="32"/>
+         <aspectTerm term="wait time" polarity="Negative" from="42" to="51"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="3F_KaCk225mVt-MA43SkZw" sent_id="3F_KaCk225mVt-MA43SkZw_5" sentiment="Positive">
+      <text>Waitress was very professional, friendly, and really knew her stuff.</text>
+      <aspectTerms>
+         <aspectTerm term="Waitress" polarity="Positive" from="0" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="3F_KaCk225mVt-MA43SkZw" sent_id="3F_KaCk225mVt-MA43SkZw_6" sentiment="Positive">
+      <text>Great wine menu.</text>
+      <aspectTerms>
+         <aspectTerm term="wine menu" polarity="Positive" from="6" to="15"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="3F_KaCk225mVt-MA43SkZw" sent_id="3F_KaCk225mVt-MA43SkZw_8" sentiment="Positive">
+      <text>Both of our dinners were excellent.</text>
+      <aspectTerms>
+         <aspectTerm term="dinners" polarity="Positive" from="12" to="19"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="y65S11GMrJ5njXAhhRB2dw" sent_id="y65S11GMrJ5njXAhhRB2dw_2" sentiment="Positive">
+      <text>I had the salt and pepper salmon which was amazing!</text>
+      <aspectTerms>
+         <aspectTerm term="salt and pepper salmon" polarity="Positive" from="10" to="32"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="y65S11GMrJ5njXAhhRB2dw" sent_id="y65S11GMrJ5njXAhhRB2dw_3" sentiment="Positive">
+      <text>But was I was most impressed with was how professional the service was.</text>
+      <aspectTerms>
+         <aspectTerm term="service" polarity="Positive" from="59" to="66"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Rskjo-asvgF0bcFWut90Ng" sent_id="Rskjo-asvgF0bcFWut90Ng_3" sentiment="Positive">
+      <text>Everything was absolutely delicious and service at the bar was outstanding.</text>
+      <aspectTerms>
+         <aspectTerm term="service" polarity="Positive" from="40" to="47"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="8Va8ycTBcLqB1mIFrlx4GQ" sent_id="8Va8ycTBcLqB1mIFrlx4GQ_2" sentiment="Neutral">
+      <text>While the wait staff could be friendlier, the food is delicious.</text>
+      <aspectTerms>
+         <aspectTerm term="wait staff" polarity="Negative" from="10" to="20"/>
+         <aspectTerm term="food" polarity="Positive" from="46" to="50"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="mZnu0MbSufbGz1LMCbmB8g" sent_id="mZnu0MbSufbGz1LMCbmB8g_2" sentiment="Positive">
+      <text>Rooms are clean and comfortable.</text>
+      <aspectTerms>
+         <aspectTerm term="Rooms" polarity="Positive" from="0" to="5"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="oz5eT4O-kGjr_bbpW6DN2g" sent_id="oz5eT4O-kGjr_bbpW6DN2g_18" sentiment="Positive">
+      <text>Coconut flan was good.</text>
+      <aspectTerms>
+         <aspectTerm term="Coconut flan" polarity="Positive" from="0" to="12"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Z1tHHMCMpUvm8JfGkzdiFg" sent_id="Z1tHHMCMpUvm8JfGkzdiFg_3" sentiment="Neutral">
+      <text>I gave the eggs benedict a shot, with the Hollandaise Sauce made to order.</text>
+      <aspectTerms>
+         <aspectTerm term="eggs benedict" polarity="Neutral" from="11" to="24"/>
+         <aspectTerm term="Hollandaise Sauce" polarity="Neutral" from="42" to="59"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="6mDWn_I2WeAv7f2TBOctaA" sent_id="6mDWn_I2WeAv7f2TBOctaA_2" sentiment="Positive">
+      <text>The owners are friendly and accommodating.</text>
+      <aspectTerms>
+         <aspectTerm term="owners" polarity="Positive" from="4" to="10"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="6mDWn_I2WeAv7f2TBOctaA" sent_id="6mDWn_I2WeAv7f2TBOctaA_3" sentiment="Positive">
+      <text>My hairdresser is the best.</text>
+      <aspectTerms>
+         <aspectTerm term="hairdresser" polarity="Positive" from="3" to="14"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Iqi2bst3GBOIjSXoxB7e3w" sent_id="Iqi2bst3GBOIjSXoxB7e3w_1" sentiment="Positive">
+      <text>Food was extremely delicious!</text>
+      <aspectTerms>
+         <aspectTerm term="Food" polarity="Positive" from="0" to="4"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="07K14rY7786d9iZ9l-roPg" sent_id="07K14rY7786d9iZ9l-roPg_22" sentiment="Positive">
+      <text>But the curry was awesome for dipping the naan into.</text>
+      <aspectTerms>
+         <aspectTerm term="curry" polarity="Positive" from="8" to="13"/>
+         <aspectTerm term="naan" polarity="Neutral" from="42" to="46"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="07K14rY7786d9iZ9l-roPg" sent_id="07K14rY7786d9iZ9l-roPg_27" sentiment="Positive">
+      <text>The naan was fresh, hot and fluffy, and the rice was also very good.</text>
+      <aspectTerms>
+         <aspectTerm term="naan" polarity="Positive" from="4" to="8"/>
+         <aspectTerm term="rice" polarity="Positive" from="44" to="48"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="PJ_5wYasbdnCwEHdyZqLbA" sent_id="PJ_5wYasbdnCwEHdyZqLbA_15" sentiment="Positive">
+      <text>The service was fun and attentive.</text>
+      <aspectTerms>
+         <aspectTerm term="service" polarity="Positive" from="4" to="11"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="497n9OnUtbGz6SqXPy4skA" sent_id="497n9OnUtbGz6SqXPy4skA_4" sentiment="Positive">
+      <text>The sandwich was awesome.</text>
+      <aspectTerms>
+         <aspectTerm term="sandwich" polarity="Positive" from="4" to="12"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="8tvEbYR3DhIey8QzjIl9Kg" sent_id="8tvEbYR3DhIey8QzjIl9Kg_2" sentiment="Positive">
+      <text>Awesome parking too which in Boulder is extremely rare.</text>
+      <aspectTerms>
+         <aspectTerm term="parking" polarity="Positive" from="8" to="15"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="ju97KvxQLviRLJLnumjzUA" sent_id="ju97KvxQLviRLJLnumjzUA_8" sentiment="Positive">
+      <text>The atmosphere is peaceful--I could sit here and work all day amid eclectic decorations and soothing music.</text>
+      <aspectTerms>
+         <aspectTerm term="atmosphere" polarity="Positive" from="4" to="14"/>
+         <aspectTerm term="decorations" polarity="Positive" from="76" to="87"/>
+         <aspectTerm term="music" polarity="Positive" from="101" to="106"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="16d4yvFEvk0QQFyI3GXijQ" sent_id="16d4yvFEvk0QQFyI3GXijQ_2" sentiment="Positive">
+      <text>They are family run and their food is fantastic!</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Positive" from="30" to="34"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="16d4yvFEvk0QQFyI3GXijQ" sent_id="16d4yvFEvk0QQFyI3GXijQ_3" sentiment="Positive">
+      <text>My favorites are brisket and sausage but their chicken is tasty too.</text>
+      <aspectTerms>
+         <aspectTerm term="brisket" polarity="Positive" from="17" to="24"/>
+         <aspectTerm term="sausage" polarity="Positive" from="29" to="36"/>
+         <aspectTerm term="chicken" polarity="Positive" from="47" to="54"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="16d4yvFEvk0QQFyI3GXijQ" sent_id="16d4yvFEvk0QQFyI3GXijQ_4" sentiment="Positive">
+      <text>Their prices are reasonable and the restaurant is clean though we usually do take out.</text>
+      <aspectTerms>
+         <aspectTerm term="prices" polarity="Positive" from="6" to="12"/>
+         <aspectTerm term="take out" polarity="Neutral" from="77" to="85"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="8vfbPv51jpdy9zyZlhlo4A" sent_id="8vfbPv51jpdy9zyZlhlo4A_4" sentiment="Positive">
+      <text>I went with caramel apple, which was amazing.</text>
+      <aspectTerms>
+         <aspectTerm term="caramel apple" polarity="Positive" from="12" to="25"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="8vfbPv51jpdy9zyZlhlo4A" sent_id="8vfbPv51jpdy9zyZlhlo4A_7" sentiment="Positive">
+      <text>Free wifi and a bright &amp; cheerful atmosphere round it all out.</text>
+      <aspectTerms>
+         <aspectTerm term="wifi" polarity="Positive" from="5" to="9"/>
+         <aspectTerm term="atmosphere" polarity="Positive" from="34" to="44"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="YLNRNPn_Wp4LUGEFkawNxw" sent_id="YLNRNPn_Wp4LUGEFkawNxw_6" sentiment="Positive">
+      <text>But service was superb.</text>
+      <aspectTerms>
+         <aspectTerm term="service" polarity="Positive" from="4" to="11"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="YLNRNPn_Wp4LUGEFkawNxw" sent_id="YLNRNPn_Wp4LUGEFkawNxw_9" sentiment="Positive">
+      <text>I had the prime rib and it was perfect.</text>
+      <aspectTerms>
+         <aspectTerm term="prime rib" polarity="Positive" from="10" to="19"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="hkJ_SDAoE5Ny861xYPpdSw" sent_id="hkJ_SDAoE5Ny861xYPpdSw_4" sentiment="Positive">
+      <text>Overall great ambiance for food.</text>
+      <aspectTerms>
+         <aspectTerm term="ambiance" polarity="Positive" from="14" to="22"/>
+         <aspectTerm term="food" polarity="Neutral" from="27" to="31"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="_B8A-w_VBrIes5hWqZCaNQ" sent_id="_B8A-w_VBrIes5hWqZCaNQ_3" sentiment="Positive">
+      <text>The sesame chicken was the best I've had in the states.</text>
+      <aspectTerms>
+         <aspectTerm term="sesame chicken" polarity="Positive" from="4" to="18"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="TXNZhepV8Z9Ac_tjwQoNCQ" sent_id="TXNZhepV8Z9Ac_tjwQoNCQ_5" sentiment="Positive">
+      <text>The dumplings were pretty good, unlike anything I've had before.</text>
+      <aspectTerms>
+         <aspectTerm term="dumplings" polarity="Positive" from="4" to="13"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="mf5hExGJe4oUwyO4mpF7MQ" sent_id="mf5hExGJe4oUwyO4mpF7MQ_9" sentiment="Positive">
+      <text>Pretty epic service!</text>
+      <aspectTerms>
+         <aspectTerm term="service" polarity="Positive" from="12" to="19"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="kJHt6y1FtZQR3chHKGtupQ" sent_id="kJHt6y1FtZQR3chHKGtupQ_1" sentiment="Positive">
+      <text>Excellent food.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Positive" from="10" to="14"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="WVlnjpNCkHKu-gvmNjaD1Q" sent_id="WVlnjpNCkHKu-gvmNjaD1Q_3" sentiment="Neutral">
+      <text>They're not the closest dealer, but they always give me great customer service.</text>
+      <aspectTerms>
+         <aspectTerm term="customer service" polarity="Positive" from="62" to="78"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="WxtexJU7PURobcNhRmGB7g" sent_id="WxtexJU7PURobcNhRmGB7g_2" sentiment="Positive">
+      <text>The check in was easy and the employee was nice.</text>
+      <aspectTerms>
+         <aspectTerm term="check in" polarity="Positive" from="4" to="12"/>
+         <aspectTerm term="employee" polarity="Positive" from="30" to="38"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="WxtexJU7PURobcNhRmGB7g" sent_id="WxtexJU7PURobcNhRmGB7g_3" sentiment="Positive">
+      <text>Our room was clean and had what we needed.</text>
+      <aspectTerms>
+         <aspectTerm term="room" polarity="Positive" from="4" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="WxtexJU7PURobcNhRmGB7g" sent_id="WxtexJU7PURobcNhRmGB7g_9" sentiment="Positive">
+      <text>We had the free breakfast and it was fine.</text>
+      <aspectTerms>
+         <aspectTerm term="breakfast" polarity="Positive" from="16" to="25"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="lXSBbNCfNfwIvdLVcboyGQ" sent_id="lXSBbNCfNfwIvdLVcboyGQ_3" sentiment="Positive">
+      <text>The food is healthy and delicious-try the squash curry.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Positive" from="4" to="8"/>
+         <aspectTerm term="squash curry" polarity="Positive" from="42" to="54"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="-yOjkt9GDgh2OdLGdHH_Cg" sent_id="-yOjkt9GDgh2OdLGdHH_Cg_14" sentiment="Positive">
+      <text>Nice atmosphere, friendly staff, self-serve coffee, excellent strawberry jam.</text>
+      <aspectTerms>
+         <aspectTerm term="atmosphere" polarity="Positive" from="5" to="15"/>
+         <aspectTerm term="staff" polarity="Positive" from="26" to="31"/>
+         <aspectTerm term="coffee" polarity="Neutral" from="44" to="50"/>
+         <aspectTerm term="strawberry jam" polarity="Positive" from="62" to="76"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="itZpXOXJoLLEGJxL_17aig" sent_id="itZpXOXJoLLEGJxL_17aig_1" sentiment="Positive">
+      <text>Great Japanese food for a great price.</text>
+      <aspectTerms>
+         <aspectTerm term="Japanese food" polarity="Positive" from="6" to="19"/>
+         <aspectTerm term="price" polarity="Positive" from="32" to="37"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="-QLTsvAutQ4wBsopLJAcNQ" sent_id="-QLTsvAutQ4wBsopLJAcNQ_3" sentiment="Positive">
+      <text>Great food and great service.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Positive" from="6" to="10"/>
+         <aspectTerm term="service" polarity="Positive" from="21" to="28"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="GCFAX7KqE81zn0P3NqRisQ" sent_id="GCFAX7KqE81zn0P3NqRisQ_1" sentiment="Positive">
+      <text>Good pizza.</text>
+      <aspectTerms>
+         <aspectTerm term="pizza" polarity="Positive" from="5" to="10"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="NpwaqeifnuR1QnTXuIw12w" sent_id="NpwaqeifnuR1QnTXuIw12w_15" sentiment="Positive">
+      <text>Fries were pretty crispy and well salted.</text>
+      <aspectTerms>
+         <aspectTerm term="Fries" polarity="Positive" from="0" to="5"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="NpwaqeifnuR1QnTXuIw12w" sent_id="NpwaqeifnuR1QnTXuIw12w_21" sentiment="Positive">
+      <text>Their menu runs deep, price was reasonable, and the vibes were pleasant.</text>
+      <aspectTerms>
+         <aspectTerm term="menu" polarity="Positive" from="6" to="10"/>
+         <aspectTerm term="price" polarity="Positive" from="22" to="27"/>
+         <aspectTerm term="vibes" polarity="Positive" from="52" to="57"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="TfiwMCFnjBZXdbYFXkTm4A" sent_id="TfiwMCFnjBZXdbYFXkTm4A_12" sentiment="Positive">
+      <text>Just then our favorite waitress walked by and stopped to say hello.</text>
+      <aspectTerms>
+         <aspectTerm term="waitress" polarity="Positive" from="23" to="31"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="OP4X-wrwsI4pV7J4_lfQYA" sent_id="OP4X-wrwsI4pV7J4_lfQYA_1" sentiment="Positive">
+      <text>Lovely restaurant and friendly service.</text>
+      <aspectTerms>
+         <aspectTerm term="service" polarity="Positive" from="31" to="38"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="2ohH0ZTDnOpwv5mKEuGjCw" sent_id="2ohH0ZTDnOpwv5mKEuGjCw_2" sentiment="Positive">
+      <text>The place was busy but still enjoyable and the service was relatively quick.</text>
+      <aspectTerms>
+         <aspectTerm term="service" polarity="Positive" from="47" to="54"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="b2BKakyXjAz0ZHhSosWunw" sent_id="b2BKakyXjAz0ZHhSosWunw_6" sentiment="Neutral">
+      <text>I am happy with the service other than the little mishap I had.</text>
+      <aspectTerms>
+         <aspectTerm term="service" polarity="Positive" from="20" to="27"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="jjw5lE-nUh4VLbb_n6ouVA" sent_id="jjw5lE-nUh4VLbb_n6ouVA_3" sentiment="Positive">
+      <text>The fish was fresh as well cooked as was the steak.</text>
+      <aspectTerms>
+         <aspectTerm term="fish" polarity="Positive" from="4" to="8"/>
+         <aspectTerm term="steak" polarity="Positive" from="45" to="50"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="r5f_pu3le7d_wRHOs4oCng" sent_id="r5f_pu3le7d_wRHOs4oCng_2" sentiment="Positive">
+      <text>The menu is extensive and delicious, and the young staff is extremely helpful to any sushi beginner.</text>
+      <aspectTerms>
+         <aspectTerm term="menu" polarity="Positive" from="4" to="8"/>
+         <aspectTerm term="staff" polarity="Positive" from="51" to="56"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="r5f_pu3le7d_wRHOs4oCng" sent_id="r5f_pu3le7d_wRHOs4oCng_4" sentiment="Positive">
+      <text>The drinks and food are fantastic and affordable.</text>
+      <aspectTerms>
+         <aspectTerm term="drinks" polarity="Positive" from="4" to="10"/>
+         <aspectTerm term="food" polarity="Positive" from="15" to="19"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="hVerUOwIQQ6yj5Zy5ltsiQ" sent_id="hVerUOwIQQ6yj5Zy5ltsiQ_1" sentiment="Positive">
+      <text>If you are a fan of Indian food- this is a must go.</text>
+      <aspectTerms>
+         <aspectTerm term="Indian food" polarity="Positive" from="20" to="31"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="hVerUOwIQQ6yj5Zy5ltsiQ" sent_id="hVerUOwIQQ6yj5Zy5ltsiQ_3" sentiment="Positive">
+      <text>We started off with chicken pakoras and they are phenomenal!</text>
+      <aspectTerms>
+         <aspectTerm term="chicken pakoras" polarity="Positive" from="20" to="35"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="nkKjew3ur1JIqrYDxEUGfQ" sent_id="nkKjew3ur1JIqrYDxEUGfQ_3" sentiment="Positive">
+      <text>The tortillas are some of the best the city has to offer.</text>
+      <aspectTerms>
+         <aspectTerm term="tortillas" polarity="Positive" from="4" to="13"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="5ddz4swJewx5gsKduv_qEw" sent_id="5ddz4swJewx5gsKduv_qEw_7" sentiment="Positive">
+      <text>The atmosphere of the restaurant was nice and so was the waitress.</text>
+      <aspectTerms>
+         <aspectTerm term="atmosphere" polarity="Positive" from="4" to="14"/>
+         <aspectTerm term="waitress" polarity="Positive" from="57" to="65"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="F5Bw6bCImV_-gKHo2mE3FA" sent_id="F5Bw6bCImV_-gKHo2mE3FA_4" sentiment="Positive">
+      <text>The location is pretty much perfect, on Central right by Lake Eola.</text>
+      <aspectTerms>
+         <aspectTerm term="location" polarity="Positive" from="4" to="12"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="_2BX_BukOCT-PW2P2ti2gA" sent_id="_2BX_BukOCT-PW2P2ti2gA_3" sentiment="Positive">
+      <text>The staff is wonderful.</text>
+      <aspectTerms>
+         <aspectTerm term="staff" polarity="Positive" from="4" to="9"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="_2BX_BukOCT-PW2P2ti2gA" sent_id="_2BX_BukOCT-PW2P2ti2gA_4" sentiment="Positive">
+      <text>The food looks and tastes great.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Positive" from="4" to="8"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="EL_Gcdw11CIgbBnh0fdW6Q" sent_id="EL_Gcdw11CIgbBnh0fdW6Q_3" sentiment="Neutral">
+      <text>The mango tango was really good, but the maple crueller was dry.</text>
+      <aspectTerms>
+         <aspectTerm term="mango tango" polarity="Positive" from="4" to="15"/>
+         <aspectTerm term="maple crueller" polarity="Negative" from="41" to="55"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="EL_Gcdw11CIgbBnh0fdW6Q" sent_id="EL_Gcdw11CIgbBnh0fdW6Q_4" sentiment="Neutral">
+      <text>The atmosphere was fun, but I think I'm just not into loud music during breakfast.</text>
+      <aspectTerms>
+         <aspectTerm term="atmosphere" polarity="Positive" from="4" to="14"/>
+         <aspectTerm term="music" polarity="Negative" from="59" to="64"/>
+         <aspectTerm term="breakfast" polarity="Neutral" from="72" to="81"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="6xfNBb_TFF6hMCw-vkh_aA" sent_id="6xfNBb_TFF6hMCw-vkh_aA_1" sentiment="Neutral">
+      <text>Good food, disgusting dirty bathroom.</text>
+      <aspectTerms>
+         <aspectTerm term="food" polarity="Positive" from="5" to="9"/>
+         <aspectTerm term="bathroom" polarity="Negative" from="28" to="36"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="Q4MqZN4uOebJpVRn7k4Tww" sent_id="Q4MqZN4uOebJpVRn7k4Tww_5" sentiment="Positive">
+      <text>Great fries.</text>
+      <aspectTerms>
+         <aspectTerm term="fries" polarity="Positive" from="6" to="11"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="eK28sbquLl5_GyAXSUn3Qg" sent_id="eK28sbquLl5_GyAXSUn3Qg_10" sentiment="Positive">
+      <text>The chips and salsa were good.</text>
+      <aspectTerms>
+         <aspectTerm term="chips" polarity="Positive" from="4" to="9"/>
+         <aspectTerm term="salsa" polarity="Positive" from="14" to="19"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="X4cd1rG0D40a1xfjPhNSDA" sent_id="X4cd1rG0D40a1xfjPhNSDA_5" sentiment="Positive">
+      <text>The Thai basil &amp; green beans was really good.</text>
+      <aspectTerms>
+         <aspectTerm term="Thai basil" polarity="Positive" from="4" to="14"/>
+         <aspectTerm term="green beans" polarity="Positive" from="17" to="28"/>
+      </aspectTerms>
+   </sentence>
+   <sentence review_id="5h1UDJbCn_CcRLVSTVMDkg" sent_id="5h1UDJbCn_CcRLVSTVMDkg_8" sentiment="Negative">
+      <text>On a random note, the place was sort of eerie and empty.</text>
+   </sentence>
+   <sentence review_id="7zFo0c8pJk0zHiKq8LR3Sg" sent_id="7zFo0c8pJk0zHiKq8LR3Sg_10" sentiment="Negative">
+      <text>I didn't find it to be anything special.</text>
+   </sentence>
+   <sentence review_id="EL_Gcdw11CIgbBnh0fdW6Q" sent_id="EL_Gcdw11CIgbBnh0fdW6Q_1" sentiment="Neutral">
+      <text>This place is ok.</text>
+   </sentence>
+   <sentence review_id="w9T8Zuqea32nqCfv69_zcQ" sent_id="w9T8Zuqea32nqCfv69_zcQ_2" sentiment="Negative">
+      <text>Was very disappointed.</text>
+   </sentence>
+   <sentence review_id="YbU5nJsG60ay-ldg5GI9gA" sent_id="YbU5nJsG60ay-ldg5GI9gA_4" sentiment="Negative">
+      <text>Simply put: I'm never coming back.</text>
+   </sentence>
+</sentences>

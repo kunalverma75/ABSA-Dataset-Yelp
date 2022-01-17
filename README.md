@@ -10,3 +10,12 @@ The dataset has been created from the publicly available Yelp reviews. The  data
 | #Positive sentences     | 4429  |
 | #Negative sentences     | 2391  |
 | #Neutral sentences      | 2178  |
+
+
+| Statistics                  	| Value 	|
+|-----------------------------	|-------	|
+| Number of aspects           	| 8998  	|
+| #Conflict sentiment aspects 	| 360   	|
+| #Positive sentiment aspects 	| 4565  	|
+| #Negative sentiment aspects 	| 2230  	|
+| #Neutral sentiment aspects  	| 2644  	|
